@@ -1,2 +1,2 @@
 # ml_techniques
-xyz
+I shall be using this repo to demonstrate the use of Pre-processing Techniques & Machine Learning Techniques. 
