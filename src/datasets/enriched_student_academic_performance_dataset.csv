@@ -1,0 +1,1501 @@
+Student_ID,Gender,Grade_Level,Study_Hours,Attendance (%),Exam_Score,Parent_Education,Satisfaction_Level,Extra_Curricular,Internet_Access,Daily_Screen_Time,Part_Time_Job,Health_Status
+1001,Male,9,3.75,83,84,Master's,Neutral,No,No,7.79,No,Average
+1002,Male,9,5.28,82,71,Master's,Very Satisfied,Yes,No,2.51,No,Average
+1003,Male,12,5.37,92,67,High School,Unsatisfied,Yes,Yes,2.32,No,Average
+1004,Male,9,3.81,80,68,Bachelor's,Satisfied,Yes,Yes,2.87,No,Excellent
+1005,Female,10,3.36,65,49,Bachelor's,Neutral,Yes,Yes,4.05,No,Good
+1006,Male,10,2.16,74,79,Master's,Satisfied,Yes,Yes,1.41,No,Average
+1007,Male,10,1.64,70,96,PhD,Satisfied,No,No,4.03,No,Average
+1008,Male,12,2.66,85,53,High School,Very Satisfied,Yes,Yes,6.54,No,Excellent
+1009,Female,9,2.18,86,57,Master's,Satisfied,No,Yes,4.23,Yes,Good
+1010,Female,9,3.56,78,70,Bachelor's,Very Satisfied,Yes,Yes,3.56,No,Good
+1011,Female,10,2.1,100,74,Master's,Unsatisfied,No,Yes,3.07,Yes,Good
+1012,Male,11,1.41,93,56,PhD,Very Satisfied,No,Yes,5.35,No,Average
+1013,Male,12,3.31,65,55,Bachelor's,Satisfied,Yes,Yes,2.76,No,Excellent
+1014,Female,10,3.3,92,77,Bachelor's,Neutral,No,Yes,6.77,No,Good
+1015,Female,9,2.83,81,52,Master's,Neutral,Yes,Yes,6.9,No,Average
+1016,Male,10,1.92,80,90,Bachelor's,Neutral,No,Yes,4.39,No,Excellent
+1017,Male,11,3.52,67,79,Master's,Satisfied,No,Yes,3.98,No,Good
+1018,Male,9,2.42,78,84,Master's,Satisfied,Yes,Yes,5.55,No,Average
+1019,Male,10,4.55,94,62,PhD,Satisfied,Yes,Yes,5.64,No,Good
+1020,Female,10,2.54,88,89,Master's,Satisfied,Yes,Yes,2.79,No,Average
+1021,Female,10,2.28,83,58,Bachelor's,Neutral,Yes,No,3.21,No,Average
+1022,Female,12,1.21,93,95,PhD,Satisfied,Yes,No,2.02,No,Good
+1023,Male,10,2.89,95,80,Bachelor's,Unsatisfied,Yes,No,4.61,Yes,Average
+1024,Male,9,2.03,88,98,High School,Neutral,Yes,Yes,5,No,Excellent
+1025,Female,9,2.95,100,35,Bachelor's,Satisfied,No,Yes,1.98,No,Excellent
+1026,Female,11,4.23,85,70,PhD,Very Satisfied,Yes,Yes,3.32,No,Poor
+1027,Male,9,3.14,65,71,Master's,Satisfied,Yes,Yes,1.98,No,Good
+1028,Female,11,3.54,99,67,High School,Satisfied,No,No,2.65,No,Excellent
+1029,Female,9,1.79,79,88,PhD,Very Satisfied,Yes,Yes,4.83,Yes,Good
+1030,Female,10,3.49,79,82,Bachelor's,Neutral,Yes,Yes,2.9,Yes,Good
+1031,Female,10,3.15,94,64,High School,Satisfied,Yes,No,3.55,No,Average
+1032,Male,11,2.51,81,53,Bachelor's,Neutral,No,Yes,1.56,No,Good
+1033,Female,11,3.44,87,75,High School,Neutral,No,Yes,4.28,No,Good
+1034,Male,9,2.65,70,68,Master's,Very Satisfied,Yes,Yes,3.93,No,Excellent
+1035,Male,10,2.49,76,72,Master's,Very Satisfied,No,Yes,2.91,No,Average
+1036,Male,11,3.61,100,77,Bachelor's,Satisfied,Yes,Yes,3.72,No,Excellent
+1037,Male,10,3.39,84,46,Master's,Satisfied,No,Yes,4.27,No,Average
+1038,Female,12,2.96,85,100,PhD,Satisfied,No,Yes,2.78,No,Excellent
+1039,Male,10,2.71,88,74,High School,Unsatisfied,No,Yes,1.79,No,Good
+1040,Male,10,1.25,96,86,High School,Satisfied,Yes,Yes,6.71,No,Good
+1041,Male,10,4.19,75,96,High School,Unsatisfied,Yes,Yes,3.05,No,Good
+1042,Female,9,0.9,90,100,Bachelor's,Neutral,Yes,Yes,3.85,No,Average
+1043,Female,10,1.51,79,76,Bachelor's,Satisfied,No,Yes,5.52,No,Average
+1044,Female,10,2.24,69,76,Master's,Very Satisfied,Yes,No,9.29,No,Average
+1045,Male,9,1.41,89,61,High School,Satisfied,No,Yes,2.13,No,Average
+1046,Female,12,5.32,77,70,Bachelor's,Satisfied,No,Yes,4.67,No,Average
+1047,Male,9,4.22,72,78,Bachelor's,Satisfied,Yes,Yes,2.94,No,Good
+1048,Male,10,4.96,68,77,High School,Satisfied,No,Yes,3.19,No,Good
+1049,Male,12,3.39,92,56,High School,Satisfied,No,Yes,2.92,No,Average
+1050,Male,12,1.02,90,79,Master's,Very Satisfied,No,Yes,2.31,No,Excellent
+1051,Male,9,3.38,88,64,Master's,Satisfied,No,Yes,3.94,No,Good
+1052,Male,9,3.35,87,64,PhD,Very Satisfied,No,Yes,1.79,No,Excellent
+1053,Male,12,5.8,89,57,Bachelor's,Neutral,Yes,Yes,5.42,No,Good
+1054,Female,9,3.98,75,86,High School,Unsatisfied,No,No,4.08,No,Average
+1055,Female,11,4.74,76,89,PhD,Satisfied,Yes,Yes,4.63,No,Good
+1056,Female,12,3.62,93,100,Master's,Satisfied,No,No,3.3,Yes,Good
+1057,Female,10,2.63,77,61,High School,Neutral,No,Yes,3.45,No,Poor
+1058,Male,9,1.78,84,80,Master's,Unsatisfied,Yes,Yes,4.43,No,Poor
+1059,Female,10,3.42,93,75,High School,Satisfied,No,Yes,2.25,No,Average
+1060,Male,9,5.18,82,100,Bachelor's,Satisfied,Yes,Yes,3.46,No,Average
+1061,Male,12,3.94,76,58,High School,Very Satisfied,Yes,Yes,2.71,No,Good
+1062,Male,9,3.72,82,85,Master's,Satisfied,Yes,Yes,2.66,No,Good
+1063,Female,11,3.71,84,62,High School,Satisfied,No,Yes,1,No,Average
+1064,Male,11,0.73,80,87,Bachelor's,Satisfied,No,Yes,6.01,No,Good
+1065,Female,12,3.32,72,77,Bachelor's,Satisfied,No,Yes,2.97,No,Good
+1066,Male,9,3.58,76,77,Bachelor's,Very Satisfied,Yes,Yes,5.75,No,Average
+1067,Male,9,3.09,73,80,Bachelor's,Satisfied,No,Yes,5.6,No,Poor
+1068,Male,11,3.84,95,90,PhD,Very Satisfied,No,Yes,2.07,No,Poor
+1069,Female,11,0.93,75,82,High School,Very Satisfied,Yes,Yes,2.37,No,Average
+1070,Female,9,3.77,90,100,Master's,Satisfied,Yes,Yes,7.84,No,Average
+1071,Male,10,3.86,96,89,Bachelor's,Very Satisfied,Yes,Yes,6.63,No,Average
+1072,Male,11,3.98,81,86,Bachelor's,Neutral,No,Yes,3.95,Yes,Good
+1073,Female,10,1.84,82,67,Master's,Very Satisfied,No,Yes,4.39,No,Good
+1074,Female,11,3.12,100,46,PhD,Very Satisfied,No,No,3.05,No,Average
+1075,Male,12,4.03,68,67,Master's,Unsatisfied,Yes,Yes,4.65,No,Average
+1076,Female,10,4.63,85,58,Master's,Neutral,No,Yes,2.92,Yes,Good
+1077,Female,12,1.93,91,64,Bachelor's,Neutral,Yes,Yes,1,Yes,Excellent
+1078,Male,9,3.32,85,65,Master's,Satisfied,Yes,Yes,2.02,No,Good
+1079,Male,12,6.22,91,44,High School,Satisfied,No,Yes,4.03,No,Good
+1080,Male,11,3.28,78,87,High School,Neutral,Yes,Yes,2.3,Yes,Average
+1081,Male,11,1.81,83,82,Master's,Very Satisfied,No,Yes,3.9,No,Average
+1082,Female,10,4.3,72,69,PhD,Neutral,Yes,Yes,2.39,No,Excellent
+1083,Male,10,2.29,78,100,PhD,Unsatisfied,No,Yes,2.83,No,Poor
+1084,Female,12,3.61,72,88,Master's,Very Satisfied,Yes,Yes,5.28,Yes,Excellent
+1085,Male,11,6.18,95,52,High School,Satisfied,Yes,Yes,4.37,Yes,Good
+1086,Female,9,2.27,97,64,PhD,Neutral,Yes,Yes,3.99,No,Good
+1087,Female,11,3.67,92,61,Bachelor's,Satisfied,Yes,Yes,5.32,No,Poor
+1088,Male,10,2.91,52,59,High School,Neutral,No,Yes,4.72,No,Good
+1089,Female,11,2.62,72,99,PhD,Very Satisfied,Yes,Yes,6.17,Yes,Good
+1090,Female,11,0.85,80,76,Master's,Satisfied,No,Yes,3.31,No,Average
+1091,Female,9,5.16,70,92,High School,Very Satisfied,No,No,3.36,No,Average
+1092,Male,11,3.02,75,81,High School,Satisfied,Yes,Yes,2.05,No,Excellent
+1093,Female,11,3.3,78,76,Bachelor's,Very Satisfied,Yes,Yes,3.36,No,Good
+1094,Male,12,2.42,86,84,PhD,Neutral,No,Yes,5.45,No,Good
+1095,Male,12,5.38,72,100,High School,Very Satisfied,No,Yes,5.95,No,Poor
+1096,Male,11,0.07,83,83,Bachelor's,Very Satisfied,No,Yes,5.44,No,Good
+1097,Female,11,3.42,78,71,Master's,Neutral,Yes,Yes,1.31,No,Good
+1098,Female,11,2.26,79,87,Master's,Satisfied,No,No,5.62,Yes,Good
+1099,Female,10,3.54,78,88,High School,Satisfied,Yes,Yes,1.24,No,Good
+1100,Female,10,3.46,93,84,Master's,Satisfied,No,Yes,5.35,No,Good
+1101,Male,11,1.76,79,86,Bachelor's,Satisfied,No,Yes,3.45,No,Good
+1102,Female,12,3.92,84,76,Bachelor's,Satisfied,Yes,Yes,5.05,Yes,Average
+1103,Female,10,4.92,79,83,Master's,Neutral,Yes,Yes,2,No,Excellent
+1104,Female,9,2.7,82,91,Master's,Satisfied,Yes,Yes,5.76,Yes,Good
+1105,Female,10,4.24,93,94,Master's,Neutral,Yes,Yes,1.8,No,Average
+1106,Male,10,3.03,91,70,PhD,Satisfied,No,Yes,3,No,Good
+1107,Male,12,3.49,83,76,Bachelor's,Satisfied,Yes,Yes,2.5,No,Excellent
+1108,Male,12,3.89,76,100,Bachelor's,Neutral,Yes,No,1.37,No,Average
+1109,Male,9,1.49,72,92,Master's,Neutral,Yes,Yes,4.14,No,Average
+1110,Female,9,4.19,91,84,Bachelor's,Very Satisfied,No,Yes,6.71,No,Good
+1111,Male,12,2.98,76,76,High School,Satisfied,No,Yes,8,Yes,Average
+1112,Female,12,1.98,94,72,Master's,Satisfied,Yes,Yes,4.15,No,Good
+1113,Female,12,1.76,81,81,PhD,Satisfied,Yes,No,5.68,Yes,Average
+1114,Female,12,2.15,76,78,Bachelor's,Neutral,No,Yes,4.35,No,Good
+1115,Female,12,3.37,79,67,Master's,Neutral,No,Yes,4.75,Yes,Poor
+1116,Male,11,3.35,70,53,High School,Satisfied,Yes,Yes,3.49,No,Poor
+1117,Male,10,1.92,82,79,High School,Satisfied,Yes,Yes,4.29,No,Excellent
+1118,Male,10,5.21,93,72,High School,Satisfied,Yes,No,4.81,No,Good
+1119,Female,12,2.97,74,74,High School,Very Satisfied,Yes,Yes,3.13,No,Average
+1120,Female,9,2.57,88,62,PhD,Satisfied,Yes,Yes,3.88,Yes,Average
+1121,Female,12,3.78,100,73,High School,Satisfied,No,Yes,3.91,No,Good
+1122,Female,12,3.6,91,68,Bachelor's,Satisfied,Yes,No,5.24,No,Good
+1123,Male,12,3.34,85,76,High School,Satisfied,No,Yes,2.4,No,Excellent
+1124,Male,12,1.84,85,82,Bachelor's,Satisfied,Yes,Yes,3.92,No,Excellent
+1125,Female,10,5.18,94,100,Master's,Very Satisfied,No,Yes,6.87,No,Good
+1126,Male,12,1.85,93,77,Bachelor's,Satisfied,No,Yes,5.75,Yes,Good
+1127,Male,12,6.28,76,62,High School,Satisfied,Yes,Yes,6.02,No,Good
+1128,Male,11,2.1,63,67,Bachelor's,Neutral,Yes,Yes,4.04,Yes,Good
+1129,Female,11,1.86,86,80,Master's,Satisfied,No,Yes,4.48,Yes,Average
+1130,Female,11,5.81,94,66,Master's,Satisfied,Yes,Yes,5.5,No,Average
+1131,Male,11,1.65,89,55,High School,Unsatisfied,Yes,Yes,6.34,No,Poor
+1132,Male,9,5.75,96,67,PhD,Neutral,Yes,Yes,1.07,No,Poor
+1133,Male,10,0.43,98,73,High School,Satisfied,No,Yes,2.03,No,Average
+1134,Male,10,4.86,69,66,Bachelor's,Neutral,Yes,Yes,5.96,No,Good
+1135,Female,10,3.01,85,68,Master's,Very Satisfied,No,No,3.58,No,Good
+1136,Male,10,3.93,74,72,PhD,Neutral,Yes,Yes,2.99,No,Good
+1137,Male,11,3.18,90,85,Bachelor's,Very Satisfied,No,Yes,2.12,No,Average
+1138,Female,12,1.31,69,94,PhD,Neutral,Yes,Yes,3.17,No,Poor
+1139,Male,9,3.5,77,98,Master's,Satisfied,No,Yes,1.9,Yes,Good
+1140,Male,9,3.17,96,76,Bachelor's,Satisfied,Yes,Yes,7.14,No,Average
+1141,Female,9,6.09,100,71,Bachelor's,Satisfied,No,Yes,3.97,No,Good
+1142,Female,12,4.46,91,95,High School,Very Satisfied,No,Yes,3.91,No,Excellent
+1143,Female,10,1.55,91,90,Bachelor's,Satisfied,Yes,No,4.88,No,Average
+1144,Female,12,0.36,73,44,Bachelor's,Very Satisfied,Yes,Yes,5.44,No,Average
+1145,Female,11,2.6,92,97,PhD,Very Satisfied,Yes,Yes,5.42,No,Good
+1146,Male,11,3.11,100,54,PhD,Neutral,Yes,Yes,5.61,No,Excellent
+1147,Female,12,0.44,84,80,Bachelor's,Satisfied,No,Yes,3.05,No,Good
+1148,Female,10,2.95,64,73,Bachelor's,Satisfied,Yes,Yes,3.55,No,Excellent
+1149,Female,11,1.04,91,80,Bachelor's,Satisfied,Yes,Yes,5.15,No,Average
+1150,Female,9,1.59,79,59,Bachelor's,Neutral,No,Yes,3.21,Yes,Excellent
+1151,Male,12,2.91,94,60,Bachelor's,Satisfied,Yes,Yes,3.99,Yes,Average
+1152,Female,12,3.76,79,63,Bachelor's,Unsatisfied,Yes,No,4.6,No,Poor
+1153,Female,10,2.84,74,66,Bachelor's,Neutral,Yes,Yes,5.18,No,Excellent
+1154,Female,12,1.2,100,75,Bachelor's,Satisfied,No,Yes,1.33,No,Excellent
+1155,Female,11,1.95,87,73,Master's,Neutral,No,Yes,5.07,No,Poor
+1156,Female,10,2.67,91,86,High School,Neutral,No,Yes,3.65,No,Average
+1157,Male,10,2.2,79,70,High School,Satisfied,Yes,Yes,5.06,No,Poor
+1158,Female,11,0,69,95,PhD,Very Satisfied,No,Yes,5.17,No,Average
+1159,Female,10,5.47,82,83,Bachelor's,Satisfied,Yes,No,6.41,No,Average
+1160,Male,11,3.47,100,91,High School,Unsatisfied,Yes,No,6.03,Yes,Excellent
+1161,Female,10,2.81,75,50,Master's,Satisfied,Yes,Yes,6.02,No,Good
+1162,Male,9,3.31,77,53,Bachelor's,Satisfied,Yes,Yes,6.17,No,Good
+1163,Female,11,2.03,74,100,High School,Unsatisfied,Yes,Yes,4.44,No,Good
+1164,Female,9,4.32,84,97,Master's,Satisfied,Yes,Yes,4.05,No,Good
+1165,Male,9,3.12,76,97,High School,Very Satisfied,Yes,Yes,5.31,Yes,Good
+1166,Female,9,3.81,74,72,PhD,Neutral,Yes,Yes,5.1,No,Good
+1167,Female,10,1.69,71,88,Master's,Satisfied,No,Yes,3.54,Yes,Average
+1168,Female,11,5.86,71,83,PhD,Very Satisfied,Yes,Yes,4.61,No,Good
+1169,Female,9,2.02,80,66,Master's,Satisfied,No,Yes,3.95,No,Good
+1170,Male,10,1.7,85,62,Bachelor's,Unsatisfied,Yes,Yes,2.72,No,Excellent
+1171,Male,10,3.41,84,71,Bachelor's,Neutral,No,Yes,5.94,Yes,Excellent
+1172,Female,12,1.64,79,86,Master's,Satisfied,Yes,No,4.08,No,Good
+1173,Male,10,3.75,75,76,Bachelor's,Neutral,Yes,Yes,7.07,No,Good
+1174,Female,9,4.13,68,83,Master's,Very Satisfied,Yes,Yes,1.56,No,Poor
+1175,Male,12,2.01,90,63,High School,Neutral,No,Yes,3.16,No,Good
+1176,Male,11,0.29,68,75,Master's,Unsatisfied,No,Yes,4.05,No,Average
+1177,Male,11,3.39,75,84,Bachelor's,Very Satisfied,Yes,Yes,5.71,No,Poor
+1178,Female,12,0.51,84,56,High School,Satisfied,Yes,Yes,4.6,No,Average
+1179,Female,11,2.02,85,62,Bachelor's,Satisfied,No,Yes,4.47,No,Good
+1180,Male,9,2.42,95,66,PhD,Satisfied,No,Yes,2.31,No,Average
+1181,Female,9,4.25,73,82,High School,Very Satisfied,Yes,Yes,2.26,No,Excellent
+1182,Male,11,5.16,60,63,Bachelor's,Satisfied,Yes,Yes,4.48,No,Poor
+1183,Male,12,3.87,82,80,Bachelor's,Satisfied,Yes,Yes,1.95,No,Excellent
+1184,Female,10,2.09,85,72,PhD,Satisfied,No,Yes,3.2,No,Good
+1185,Female,9,4.75,87,80,Bachelor's,Satisfied,Yes,No,4.75,No,Average
+1186,Female,9,2.38,80,68,PhD,Satisfied,No,Yes,2.53,Yes,Average
+1187,Female,11,3.59,80,79,Master's,Satisfied,Yes,Yes,6.41,No,Good
+1188,Male,12,6.11,93,70,High School,Neutral,Yes,Yes,5.84,No,Good
+1189,Male,12,4.8,80,44,PhD,Very Satisfied,Yes,Yes,1.64,No,Good
+1190,Male,12,1.49,66,69,Bachelor's,Neutral,No,No,2.6,No,Average
+1191,Female,12,3.03,100,79,Master's,Satisfied,No,Yes,1,No,Good
+1192,Male,11,2.67,93,41,Bachelor's,Very Satisfied,Yes,Yes,2.83,No,Excellent
+1193,Female,12,3.35,92,52,High School,Very Satisfied,No,Yes,5.15,No,Average
+1194,Male,10,4.72,88,68,Bachelor's,Unsatisfied,Yes,Yes,3.38,No,Good
+1195,Female,9,3.95,100,77,High School,Very Satisfied,Yes,Yes,4.69,No,Average
+1196,Male,12,3.37,80,62,PhD,Satisfied,Yes,Yes,1.72,Yes,Good
+1197,Male,12,4.25,76,76,PhD,Neutral,Yes,Yes,5.2,No,Good
+1198,Female,12,2.28,89,80,Master's,Very Satisfied,Yes,Yes,3.17,Yes,Average
+1199,Male,12,4.56,79,70,Bachelor's,Satisfied,No,Yes,4.02,No,Poor
+1200,Male,9,1.53,80,80,Bachelor's,Satisfied,Yes,Yes,3.86,No,Poor
+1201,Female,11,4.14,75,88,PhD,Satisfied,No,Yes,2.09,No,Good
+1202,Male,11,5.03,89,100,Master's,Very Satisfied,Yes,Yes,2.27,No,Good
+1203,Female,10,1.84,72,48,Bachelor's,Satisfied,No,Yes,5.45,No,Excellent
+1204,Female,12,5.24,91,74,Bachelor's,Satisfied,Yes,Yes,4.6,Yes,Good
+1205,Male,10,3.42,73,100,Bachelor's,Neutral,Yes,Yes,5.58,Yes,Average
+1206,Female,9,3.19,86,85,Bachelor's,Satisfied,Yes,Yes,4.49,No,Excellent
+1207,Female,12,3.72,87,63,PhD,Satisfied,Yes,Yes,4.21,No,Good
+1208,Male,12,3.71,100,95,PhD,Neutral,No,Yes,1.41,No,Good
+1209,Female,9,5.39,79,60,PhD,Satisfied,Yes,Yes,3.59,No,Poor
+1210,Female,9,2.81,85,91,Master's,Satisfied,No,No,3.96,Yes,Average
+1211,Male,9,0.46,100,72,Bachelor's,Very Satisfied,Yes,Yes,6.93,No,Excellent
+1212,Female,12,2.36,74,50,Master's,Very Satisfied,Yes,Yes,5.03,No,Good
+1213,Female,11,4.23,85,55,Master's,Very Satisfied,Yes,Yes,6.3,Yes,Average
+1214,Female,9,1.06,81,100,Master's,Neutral,No,Yes,4.9,No,Good
+1215,Female,10,2.61,69,71,Master's,Satisfied,No,Yes,2.93,No,Excellent
+1216,Male,9,2.59,58,74,Bachelor's,Satisfied,Yes,Yes,4.18,Yes,Average
+1217,Male,9,2.65,91,100,Bachelor's,Unsatisfied,Yes,Yes,4.35,No,Good
+1218,Female,11,4.69,82,58,Bachelor's,Neutral,Yes,Yes,2.59,No,Excellent
+1219,Female,10,6.86,85,75,High School,Unsatisfied,No,Yes,3.42,No,Average
+1220,Female,10,2.96,86,72,Bachelor's,Satisfied,No,Yes,3.69,No,Good
+1221,Male,12,2.14,79,74,Master's,Satisfied,Yes,Yes,6.41,No,Good
+1222,Male,12,2.18,77,76,PhD,Satisfied,Yes,Yes,1,No,Good
+1223,Male,9,2.62,100,35,Bachelor's,Satisfied,Yes,Yes,5.81,Yes,Average
+1224,Female,12,4.64,97,43,Master's,Satisfied,No,Yes,2.59,No,Average
+1225,Female,10,2.49,81,53,PhD,Very Satisfied,Yes,Yes,1.94,No,Good
+1226,Male,10,1.83,73,100,Bachelor's,Satisfied,No,Yes,5.77,No,Average
+1227,Female,11,4.4,97,85,High School,Very Satisfied,Yes,Yes,5.1,No,Good
+1228,Female,11,1.31,79,82,High School,Very Satisfied,No,Yes,5.88,No,Average
+1229,Male,12,1.17,92,71,Master's,Very Satisfied,No,Yes,5.2,No,Poor
+1230,Male,11,2.44,92,81,High School,Neutral,No,Yes,7.09,No,Excellent
+1231,Female,10,2.46,96,58,Master's,Very Satisfied,No,Yes,4.84,No,Good
+1232,Male,11,3.92,90,70,Master's,Unsatisfied,No,Yes,3.77,Yes,Excellent
+1233,Female,10,3.49,72,88,High School,Neutral,Yes,Yes,4.51,No,Average
+1234,Female,10,2.72,79,90,High School,Satisfied,Yes,Yes,5.87,Yes,Good
+1235,Female,11,1.94,70,51,Master's,Neutral,Yes,Yes,2.83,No,Average
+1236,Female,11,3.91,72,100,Master's,Satisfied,No,Yes,3.02,No,Good
+1237,Male,12,0,100,78,PhD,Neutral,Yes,Yes,3.54,Yes,Good
+1238,Male,12,2.85,79,80,PhD,Very Satisfied,No,Yes,1,No,Average
+1239,Female,9,2.94,96,76,Master's,Unsatisfied,No,Yes,4.21,No,Excellent
+1240,Male,12,3.23,81,74,Bachelor's,Satisfied,Yes,Yes,1.17,No,Average
+1241,Female,12,3.46,67,54,Master's,Very Satisfied,Yes,Yes,4.08,No,Good
+1242,Male,10,4.11,86,72,Bachelor's,Satisfied,Yes,Yes,5.3,Yes,Excellent
+1243,Female,10,3.03,88,66,Master's,Satisfied,Yes,Yes,3.28,No,Excellent
+1244,Female,11,1.83,86,60,Master's,Neutral,Yes,Yes,6.52,No,Excellent
+1245,Male,9,3.61,67,90,Bachelor's,Satisfied,Yes,Yes,1.81,No,Average
+1246,Male,10,3.71,87,89,PhD,Neutral,No,Yes,5.79,No,Average
+1247,Female,11,5.5,95,47,Master's,Satisfied,No,Yes,5.01,No,Average
+1248,Female,10,1.08,78,75,PhD,Satisfied,Yes,Yes,1.43,No,Good
+1249,Female,12,3.78,77,77,PhD,Neutral,Yes,Yes,8.07,No,Good
+1250,Female,10,1.87,78,53,Bachelor's,Very Satisfied,Yes,Yes,3.9,No,Average
+1251,Female,9,1.62,71,60,PhD,Satisfied,No,Yes,2.68,No,Good
+1252,Female,9,4.58,75,100,Bachelor's,Neutral,No,Yes,1.89,No,Average
+1253,Male,12,3.74,86,62,High School,Neutral,Yes,Yes,3.67,No,Average
+1254,Male,9,4.05,79,76,Master's,Neutral,Yes,Yes,3.81,No,Good
+1255,Male,10,6.84,84,92,High School,Satisfied,No,Yes,4.15,Yes,Good
+1256,Male,10,1.95,84,100,Master's,Neutral,No,Yes,3.55,No,Excellent
+1257,Male,9,2.06,100,85,Bachelor's,Very Satisfied,Yes,Yes,4.95,No,Average
+1258,Male,11,2.16,91,89,Master's,Neutral,No,No,3.42,No,Good
+1259,Male,10,3.93,69,64,High School,Satisfied,Yes,Yes,1.1,No,Poor
+1260,Male,11,2.63,84,84,High School,Neutral,Yes,Yes,3.78,Yes,Average
+1261,Male,12,3.27,71,80,Bachelor's,Satisfied,No,Yes,1,No,Good
+1262,Female,12,3.92,90,91,Master's,Satisfied,No,Yes,4.53,No,Excellent
+1263,Male,12,4.25,89,73,Bachelor's,Very Satisfied,Yes,Yes,2.53,No,Average
+1264,Male,11,0.51,89,78,Bachelor's,Very Satisfied,No,Yes,4.25,No,Average
+1265,Male,12,3.41,72,58,Master's,Satisfied,Yes,No,5.97,No,Good
+1266,Male,12,4.58,84,85,Master's,Satisfied,No,Yes,2.58,No,Average
+1267,Male,11,3.04,85,89,Master's,Unsatisfied,Yes,Yes,5.59,No,Excellent
+1268,Female,11,2.23,85,68,Bachelor's,Satisfied,No,Yes,3.35,Yes,Good
+1269,Female,12,2.35,81,78,Bachelor's,Satisfied,No,Yes,6.63,No,Average
+1270,Male,10,2.28,97,61,Bachelor's,Very Satisfied,Yes,Yes,3.45,No,Good
+1271,Female,11,2.72,80,96,Master's,Satisfied,No,Yes,2.74,No,Good
+1272,Male,11,3.29,95,52,Bachelor's,Satisfied,No,Yes,5.03,No,Average
+1273,Female,10,3.4,93,76,Master's,Satisfied,No,Yes,3.35,Yes,Good
+1274,Male,9,4.6,79,96,High School,Unsatisfied,Yes,Yes,2.74,No,Poor
+1275,Female,10,6.45,81,68,Bachelor's,Satisfied,No,Yes,3.28,Yes,Good
+1276,Female,9,5.18,100,67,Bachelor's,Very Satisfied,No,Yes,3.93,No,Average
+1277,Female,9,2.37,82,54,PhD,Satisfied,Yes,Yes,6.01,Yes,Excellent
+1278,Female,9,1.62,74,63,Bachelor's,Neutral,No,Yes,1.1,No,Average
+1279,Female,10,2.95,87,98,Master's,Satisfied,Yes,Yes,4.03,No,Average
+1280,Female,9,1.5,94,71,Master's,Satisfied,Yes,Yes,4.94,No,Excellent
+1281,Female,9,2.93,91,58,Master's,Satisfied,Yes,Yes,4.29,Yes,Poor
+1282,Female,9,3.57,86,82,High School,Satisfied,Yes,Yes,5.96,No,Average
+1283,Female,11,3.43,100,65,Bachelor's,Neutral,No,Yes,3.89,No,Average
+1284,Male,12,2.2,78,66,High School,Satisfied,Yes,Yes,3.72,No,Average
+1285,Male,9,2.04,96,96,Master's,Neutral,No,Yes,4.89,No,Excellent
+1286,Female,12,2.14,76,82,Bachelor's,Satisfied,Yes,Yes,4.15,No,Good
+1287,Female,9,2.17,91,78,PhD,Neutral,Yes,Yes,3.41,No,Poor
+1288,Male,9,0.73,100,100,Bachelor's,Satisfied,Yes,Yes,4.77,No,Good
+1289,Female,12,2.08,81,79,Bachelor's,Neutral,Yes,Yes,3.02,Yes,Good
+1290,Male,11,3.5,91,100,Bachelor's,Neutral,No,No,3.08,No,Excellent
+1291,Female,11,2.73,77,54,High School,Satisfied,No,Yes,3.21,No,Average
+1292,Male,9,1.9,84,100,High School,Very Satisfied,No,Yes,6.03,Yes,Good
+1293,Male,11,2.22,87,74,Bachelor's,Neutral,Yes,Yes,1,No,Good
+1294,Female,12,4.78,100,67,High School,Satisfied,Yes,Yes,4.59,No,Good
+1295,Male,11,2.27,95,85,High School,Very Satisfied,Yes,Yes,4.05,No,Good
+1296,Male,12,5.77,90,69,High School,Very Satisfied,Yes,Yes,1.48,No,Average
+1297,Female,12,3.89,96,87,Bachelor's,Satisfied,Yes,Yes,4.46,Yes,Good
+1298,Female,11,3.76,95,92,High School,Unsatisfied,No,Yes,4.71,No,Good
+1299,Female,10,5.07,91,72,Master's,Satisfied,Yes,Yes,4.88,No,Excellent
+1300,Female,9,3.22,97,62,Bachelor's,Neutral,No,Yes,1,Yes,Average
+1301,Female,12,3.55,81,75,Bachelor's,Satisfied,Yes,Yes,6.05,No,Good
+1302,Female,11,4.92,86,75,High School,Satisfied,Yes,Yes,2.89,Yes,Excellent
+1303,Male,9,0.96,92,84,Bachelor's,Neutral,No,Yes,5.03,No,Good
+1304,Female,11,6.24,81,78,Master's,Very Satisfied,Yes,Yes,5.11,No,Excellent
+1305,Male,10,3.37,100,73,High School,Neutral,No,Yes,2.68,No,Excellent
+1306,Male,10,3.42,91,77,Master's,Satisfied,No,Yes,4.99,Yes,Average
+1307,Male,12,2.33,86,91,Bachelor's,Satisfied,Yes,Yes,3.42,Yes,Good
+1308,Female,11,1.46,86,64,PhD,Satisfied,No,No,1,No,Average
+1309,Male,12,4.79,69,66,High School,Satisfied,Yes,Yes,5.75,Yes,Good
+1310,Female,11,3.57,100,74,Bachelor's,Satisfied,Yes,Yes,2.84,No,Average
+1311,Male,11,2.17,100,53,Bachelor's,Unsatisfied,No,Yes,2.72,No,Good
+1312,Female,11,0,89,67,High School,Very Satisfied,Yes,No,3.4,No,Good
+1313,Male,12,1.47,92,78,Bachelor's,Satisfied,No,Yes,4.41,No,Good
+1314,Male,12,2.15,72,88,PhD,Satisfied,No,No,3.91,No,Average
+1315,Male,11,3.98,84,100,Master's,Satisfied,No,Yes,4.82,No,Excellent
+1316,Male,12,1.39,69,64,High School,Very Satisfied,Yes,Yes,1.99,No,Poor
+1317,Female,9,2.93,87,71,Bachelor's,Neutral,Yes,Yes,2.89,No,Poor
+1318,Male,12,3.53,72,96,PhD,Satisfied,No,Yes,3.83,No,Average
+1319,Male,11,2.88,96,80,Bachelor's,Neutral,Yes,Yes,6.85,No,Excellent
+1320,Female,11,3.69,90,81,Master's,Unsatisfied,Yes,Yes,3.83,No,Excellent
+1321,Female,9,3.96,98,77,Bachelor's,Satisfied,Yes,Yes,5.63,Yes,Good
+1322,Female,11,4.06,84,96,Bachelor's,Very Satisfied,Yes,Yes,4.06,No,Excellent
+1323,Male,11,1.99,100,74,High School,Satisfied,Yes,Yes,3.27,No,Average
+1324,Female,11,0.85,86,64,PhD,Satisfied,No,Yes,3.63,No,Excellent
+1325,Female,10,4.26,78,68,Bachelor's,Very Satisfied,No,Yes,3.75,No,Average
+1326,Female,12,0.17,80,38,Master's,Satisfied,Yes,Yes,4.91,Yes,Average
+1327,Male,9,0.62,92,86,Master's,Satisfied,Yes,Yes,6.06,Yes,Average
+1328,Female,9,3.64,75,74,Bachelor's,Neutral,Yes,Yes,4.54,No,Good
+1329,Male,11,2.99,73,97,PhD,Satisfied,No,Yes,5.78,No,Good
+1330,Male,10,4.32,82,75,High School,Neutral,Yes,Yes,2.55,No,Average
+1331,Male,9,3.31,64,71,Master's,Very Satisfied,No,Yes,3.38,No,Excellent
+1332,Male,12,1.98,74,70,High School,Neutral,Yes,Yes,2.91,No,Good
+1333,Male,12,5.7,91,66,High School,Satisfied,No,Yes,4.47,No,Average
+1334,Male,12,3.86,98,88,Master's,Satisfied,Yes,Yes,3.46,Yes,Good
+1335,Female,10,3.09,78,85,Bachelor's,Satisfied,No,Yes,5.09,No,Good
+1336,Female,10,3.59,93,84,Bachelor's,Very Satisfied,Yes,Yes,2.6,No,Excellent
+1337,Female,12,4.57,79,94,Master's,Satisfied,No,Yes,4.06,No,Good
+1338,Female,10,3.3,100,64,Master's,Very Satisfied,Yes,Yes,5.03,No,Good
+1339,Male,11,5.6,86,65,High School,Satisfied,No,Yes,1,No,Average
+1340,Female,9,2.27,81,81,Master's,Satisfied,No,Yes,7.18,No,Good
+1341,Male,11,3.78,79,74,High School,Neutral,Yes,Yes,3.58,No,Excellent
+1342,Female,10,6.21,100,81,Master's,Unsatisfied,No,Yes,1,No,Poor
+1343,Male,12,3.06,86,84,PhD,Very Satisfied,Yes,Yes,4.24,No,Excellent
+1344,Female,9,1.47,82,49,Bachelor's,Satisfied,Yes,Yes,4.05,No,Good
+1345,Female,9,3.6,91,67,Bachelor's,Unsatisfied,Yes,Yes,3.88,No,Average
+1346,Male,11,5.36,72,53,Master's,Neutral,Yes,No,5.49,Yes,Excellent
+1347,Female,12,3.34,95,100,Master's,Neutral,No,Yes,5.12,No,Good
+1348,Female,12,2.31,95,74,Master's,Very Satisfied,No,Yes,4.45,Yes,Average
+1349,Male,11,2.74,93,84,High School,Neutral,Yes,Yes,4.68,Yes,Average
+1350,Female,9,0.64,99,95,Master's,Neutral,Yes,Yes,3.84,Yes,Average
+1351,Male,9,2.06,88,82,High School,Satisfied,No,Yes,6.66,No,Excellent
+1352,Female,9,3.39,79,64,High School,Very Satisfied,No,Yes,1.78,No,Good
+1353,Male,10,2.96,96,83,Master's,Neutral,Yes,No,4.21,No,Excellent
+1354,Male,11,2.44,92,32,High School,Satisfied,No,Yes,4.1,No,Average
+1355,Male,11,4.72,67,69,High School,Satisfied,Yes,Yes,5.22,No,Average
+1356,Male,12,1.32,72,92,PhD,Unsatisfied,Yes,Yes,2.73,No,Poor
+1357,Female,11,2.3,88,74,Bachelor's,Unsatisfied,No,Yes,1.38,Yes,Good
+1358,Male,11,3.72,85,55,High School,Satisfied,Yes,Yes,4.24,No,Excellent
+1359,Male,11,4.49,80,51,High School,Satisfied,Yes,Yes,4.42,No,Good
+1360,Female,10,2.36,100,87,Master's,Satisfied,Yes,Yes,6.23,No,Average
+1361,Female,10,2.48,81,70,Master's,Unsatisfied,No,Yes,2.09,Yes,Excellent
+1362,Female,9,6.12,88,81,Bachelor's,Unsatisfied,No,Yes,5.73,No,Good
+1363,Male,9,4.55,87,71,Bachelor's,Satisfied,Yes,Yes,7.55,No,Poor
+1364,Female,12,2.71,84,74,Bachelor's,Satisfied,Yes,Yes,3.43,Yes,Excellent
+1365,Male,11,4.09,85,85,Bachelor's,Satisfied,Yes,Yes,2.06,No,Average
+1366,Female,11,2.88,85,45,High School,Satisfied,Yes,Yes,3.39,No,Average
+1367,Female,12,4.37,88,89,PhD,Satisfied,Yes,Yes,4.02,No,Average
+1368,Male,12,0,100,72,Master's,Satisfied,No,Yes,4.85,No,Good
+1369,Female,9,4.66,74,84,Master's,Unsatisfied,Yes,No,3.11,No,Good
+1370,Male,11,1.42,78,100,Bachelor's,Unsatisfied,Yes,Yes,6.33,No,Average
+1371,Female,11,2.71,87,88,Bachelor's,Satisfied,Yes,Yes,2.33,No,Average
+1372,Male,12,3.74,86,80,Bachelor's,Unsatisfied,Yes,Yes,1.39,No,Good
+1373,Female,12,6.61,84,78,Bachelor's,Very Satisfied,No,Yes,5.66,No,Excellent
+1374,Male,9,4.58,96,92,Master's,Satisfied,Yes,Yes,1,No,Good
+1375,Male,9,3.96,73,99,High School,Satisfied,Yes,Yes,3.69,No,Average
+1376,Female,9,1.28,88,63,High School,Neutral,Yes,Yes,8.68,Yes,Average
+1377,Female,11,2.9,88,79,Bachelor's,Satisfied,Yes,Yes,3.98,Yes,Average
+1378,Male,12,3.63,100,81,PhD,Satisfied,Yes,Yes,2.32,No,Average
+1379,Male,10,2.63,94,92,Bachelor's,Satisfied,Yes,Yes,3.91,No,Good
+1380,Female,10,1.16,90,85,PhD,Unsatisfied,Yes,Yes,3.92,Yes,Good
+1381,Male,12,2.55,98,72,Bachelor's,Very Satisfied,Yes,No,4.24,No,Good
+1382,Male,11,3.19,83,75,Master's,Satisfied,Yes,Yes,4.99,No,Good
+1383,Male,11,1.36,70,98,Master's,Very Satisfied,Yes,Yes,2.44,No,Average
+1384,Male,9,1.73,75,42,High School,Unsatisfied,No,Yes,6.53,No,Average
+1385,Male,12,2.04,71,99,PhD,Very Satisfied,Yes,Yes,4.37,No,Good
+1386,Female,11,4.51,78,100,Master's,Satisfied,Yes,Yes,5.09,No,Average
+1387,Female,11,4.47,81,37,PhD,Satisfied,Yes,Yes,3.06,No,Average
+1388,Male,11,6.44,71,50,Bachelor's,Neutral,Yes,Yes,5.93,No,Average
+1389,Male,10,4.53,100,95,High School,Satisfied,No,Yes,3.61,No,Average
+1390,Female,11,3.85,90,87,Bachelor's,Very Satisfied,Yes,Yes,4.42,No,Poor
+1391,Male,9,4.14,87,76,High School,Satisfied,No,Yes,2.6,No,Excellent
+1392,Female,12,2.91,77,70,Master's,Very Satisfied,Yes,Yes,2.5,No,Excellent
+1393,Male,10,0.46,84,60,PhD,Satisfied,Yes,Yes,5.03,No,Average
+1394,Female,12,1.34,86,95,Master's,Satisfied,No,Yes,3.33,No,Poor
+1395,Male,10,4.38,69,60,Bachelor's,Very Satisfied,Yes,Yes,2.72,No,Good
+1396,Male,9,4.41,75,71,Bachelor's,Satisfied,Yes,Yes,3.04,No,Average
+1397,Male,11,3.83,75,76,PhD,Neutral,Yes,Yes,5.05,Yes,Average
+1398,Female,9,1,78,79,Bachelor's,Satisfied,No,No,3.06,Yes,Poor
+1399,Female,10,0.61,89,74,Master's,Satisfied,Yes,Yes,3.82,No,Average
+1400,Male,10,3.83,87,95,Bachelor's,Satisfied,No,Yes,4.02,No,Good
+1401,Male,11,3.19,80,76,Master's,Satisfied,Yes,No,1.12,No,Excellent
+1402,Male,9,3.81,85,75,High School,Satisfied,No,Yes,1.79,No,Average
+1403,Female,10,1.95,78,53,Master's,Satisfied,Yes,Yes,4.5,No,Average
+1404,Male,12,5.62,72,64,PhD,Satisfied,No,Yes,2.89,No,Average
+1405,Female,12,1.92,93,70,High School,Very Satisfied,Yes,Yes,5.59,No,Poor
+1406,Female,11,4.87,78,79,Bachelor's,Satisfied,No,No,5.45,No,Excellent
+1407,Male,12,1.75,100,57,Bachelor's,Satisfied,Yes,Yes,5.08,No,Good
+1408,Female,10,3.46,91,81,Bachelor's,Satisfied,Yes,Yes,6.73,No,Good
+1409,Female,12,2.72,83,75,High School,Satisfied,Yes,Yes,3.88,No,Good
+1410,Male,11,2.78,94,100,High School,Neutral,Yes,Yes,4.97,No,Excellent
+1411,Female,10,2.16,71,73,High School,Unsatisfied,Yes,Yes,3.12,No,Excellent
+1412,Female,12,6.87,76,99,High School,Very Satisfied,No,Yes,7.68,Yes,Poor
+1413,Male,11,5.52,79,83,PhD,Satisfied,No,Yes,6.98,No,Average
+1414,Male,10,5.44,81,71,Bachelor's,Satisfied,Yes,Yes,4.02,No,Good
+1415,Female,11,2.13,74,65,Bachelor's,Unsatisfied,No,No,4.58,Yes,Average
+1416,Female,12,1.16,85,63,PhD,Neutral,Yes,Yes,6.04,No,Excellent
+1417,Female,9,3.35,69,79,High School,Satisfied,Yes,Yes,3.78,No,Good
+1418,Female,11,4.25,65,80,Bachelor's,Very Satisfied,No,Yes,3.02,No,Excellent
+1419,Female,10,4.84,72,100,PhD,Satisfied,No,Yes,5.31,No,Average
+1420,Female,11,3.63,77,74,High School,Unsatisfied,No,Yes,4.12,No,Excellent
+1421,Male,11,3.84,85,83,Bachelor's,Unsatisfied,Yes,No,4.27,No,Average
+1422,Female,11,1.62,86,53,Master's,Satisfied,No,Yes,2.75,No,Excellent
+1423,Male,10,2.83,75,63,PhD,Satisfied,Yes,Yes,1.42,No,Average
+1424,Female,11,4.85,95,84,Master's,Neutral,Yes,Yes,4.35,No,Good
+1425,Female,9,1.36,81,93,High School,Neutral,Yes,Yes,5.36,No,Good
+1426,Female,12,3.21,100,80,Bachelor's,Neutral,No,Yes,3.66,No,Good
+1427,Male,11,3.29,81,77,PhD,Satisfied,No,Yes,6.15,No,Good
+1428,Female,11,2.77,92,89,Bachelor's,Satisfied,No,Yes,2.94,No,Excellent
+1429,Female,11,1.82,71,47,Bachelor's,Unsatisfied,Yes,Yes,2.42,No,Good
+1430,Female,9,3.76,73,42,PhD,Satisfied,Yes,Yes,3.9,No,Good
+1431,Male,12,3.58,100,74,Bachelor's,Satisfied,Yes,No,3.88,No,Poor
+1432,Male,9,4.26,85,73,Bachelor's,Neutral,Yes,Yes,5.15,Yes,Excellent
+1433,Female,10,4.38,82,79,Master's,Neutral,Yes,Yes,2.84,No,Good
+1434,Male,10,3.48,78,89,High School,Satisfied,No,Yes,6.05,No,Good
+1435,Male,12,2.74,77,83,Master's,Satisfied,Yes,Yes,6.95,No,Poor
+1436,Female,9,1.65,85,74,Master's,Satisfied,Yes,No,3.94,No,Good
+1437,Female,12,4.63,89,74,Bachelor's,Satisfied,Yes,Yes,5.87,Yes,Poor
+1438,Male,12,4.23,98,83,PhD,Satisfied,Yes,Yes,2.42,No,Poor
+1439,Female,11,3.02,71,59,Master's,Neutral,Yes,Yes,5.61,No,Good
+1440,Male,11,2.54,78,72,Bachelor's,Neutral,No,Yes,5.57,Yes,Average
+1441,Female,11,3.08,90,73,Master's,Satisfied,No,Yes,5.3,No,Average
+1442,Female,11,3.73,85,45,Bachelor's,Satisfied,No,Yes,3.98,Yes,Good
+1443,Female,11,1.59,83,56,High School,Satisfied,Yes,Yes,1,No,Poor
+1444,Female,12,3.9,100,93,Master's,Very Satisfied,Yes,Yes,3.04,No,Average
+1445,Male,11,2.68,99,77,High School,Very Satisfied,Yes,Yes,3.06,No,Average
+1446,Male,11,2.49,78,70,PhD,Satisfied,No,Yes,2.53,No,Good
+1447,Female,10,2.42,86,77,High School,Satisfied,No,Yes,4.18,No,Good
+1448,Female,10,3,89,92,High School,Satisfied,Yes,Yes,3.37,No,Good
+1449,Male,10,4.42,70,36,High School,Very Satisfied,Yes,Yes,2.76,No,Average
+1450,Male,10,4.4,71,71,High School,Satisfied,Yes,Yes,2.41,No,Poor
+1451,Female,9,1.24,66,83,Master's,Neutral,No,Yes,2.93,No,Poor
+1452,Male,12,4.14,79,36,Master's,Very Satisfied,No,Yes,5.68,No,Good
+1453,Female,12,2.18,88,52,Master's,Satisfied,Yes,Yes,3.01,No,Excellent
+1454,Female,11,3.28,84,83,Bachelor's,Unsatisfied,Yes,Yes,3.23,No,Average
+1455,Male,10,3.18,75,92,Bachelor's,Satisfied,Yes,Yes,3.31,No,Average
+1456,Male,10,2.76,84,61,Bachelor's,Very Satisfied,Yes,Yes,4.51,No,Average
+1457,Male,12,2.34,76,72,Master's,Neutral,Yes,Yes,4.68,Yes,Good
+1458,Female,9,5.57,71,50,High School,Satisfied,Yes,Yes,1,No,Good
+1459,Male,11,5.21,82,64,Bachelor's,Very Satisfied,No,Yes,5.53,No,Good
+1460,Female,10,4.56,78,100,PhD,Satisfied,No,Yes,6.15,Yes,Excellent
+1461,Male,9,4.02,80,100,Bachelor's,Satisfied,Yes,Yes,2.42,Yes,Good
+1462,Female,10,2.09,92,79,High School,Satisfied,No,Yes,2.54,Yes,Average
+1463,Female,10,4.95,100,75,High School,Very Satisfied,Yes,Yes,3.32,No,Average
+1464,Female,12,1.87,89,64,Bachelor's,Unsatisfied,Yes,Yes,2.87,No,Good
+1465,Male,10,6.02,86,69,PhD,Satisfied,Yes,Yes,4.34,No,Good
+1466,Male,9,3.28,71,60,Bachelor's,Neutral,Yes,Yes,1.08,No,Good
+1467,Female,11,4.8,78,59,Bachelor's,Satisfied,Yes,Yes,2.32,No,Good
+1468,Male,11,3.8,96,85,Master's,Satisfied,Yes,Yes,6.31,No,Good
+1469,Male,9,4.49,77,53,Bachelor's,Neutral,Yes,Yes,2.61,Yes,Excellent
+1470,Female,9,5.25,81,71,Master's,Very Satisfied,No,Yes,5.87,No,Good
+1471,Female,10,4.99,90,81,High School,Neutral,Yes,Yes,4.53,No,Good
+1472,Male,12,6.25,78,88,Master's,Satisfied,Yes,Yes,1.29,Yes,Average
+1473,Female,12,3.09,87,97,Master's,Very Satisfied,Yes,Yes,4.95,No,Good
+1474,Male,10,3.76,90,91,Master's,Satisfied,No,Yes,3.82,No,Excellent
+1475,Male,12,2.45,76,59,Bachelor's,Satisfied,Yes,Yes,3.32,Yes,Average
+1476,Male,9,0.05,100,58,Master's,Very Satisfied,No,Yes,4.37,Yes,Good
+1477,Male,10,2.67,82,79,High School,Very Satisfied,Yes,Yes,4.71,Yes,Good
+1478,Female,9,4.22,93,66,Master's,Satisfied,Yes,Yes,5.06,No,Poor
+1479,Female,9,2.75,87,71,PhD,Satisfied,Yes,Yes,5.77,No,Good
+1480,Male,12,5.41,89,86,High School,Satisfied,Yes,No,4.61,No,Average
+1481,Male,12,3.99,96,77,Master's,Satisfied,Yes,Yes,1.94,No,Excellent
+1482,Male,12,1.05,88,65,Bachelor's,Unsatisfied,Yes,Yes,3.29,No,Excellent
+1483,Male,9,2.21,90,93,High School,Satisfied,Yes,No,8.41,No,Average
+1484,Male,9,3.03,88,100,PhD,Unsatisfied,Yes,Yes,5.09,Yes,Average
+1485,Female,9,3.36,100,83,Bachelor's,Neutral,Yes,Yes,7.55,No,Good
+1486,Male,12,0.36,92,80,Bachelor's,Very Satisfied,No,Yes,6.09,No,Average
+1487,Female,12,4.93,91,72,Bachelor's,Satisfied,Yes,Yes,4.36,No,Poor
+1488,Male,11,1.16,82,62,High School,Very Satisfied,No,Yes,4.45,No,Good
+1489,Female,10,2.13,90,100,Master's,Neutral,No,Yes,3.95,Yes,Average
+1490,Male,9,3.59,73,81,PhD,Satisfied,Yes,Yes,1.39,No,Average
+1491,Female,12,4.79,78,72,Master's,Neutral,Yes,Yes,4.03,No,Excellent
+1492,Female,10,3.02,77,84,Bachelor's,Very Satisfied,Yes,Yes,5.82,No,Excellent
+1493,Male,9,2.82,89,61,Master's,Satisfied,No,Yes,3.1,No,Good
+1494,Male,10,2.34,92,69,High School,Neutral,No,Yes,4.62,No,Excellent
+1495,Male,12,5.59,81,78,Bachelor's,Satisfied,No,Yes,5.28,No,Average
+1496,Male,10,4.4,70,48,Master's,Satisfied,No,Yes,2.64,No,Average
+1497,Male,10,0.71,97,66,Master's,Satisfied,No,No,3.32,No,Average
+1498,Male,11,6.84,79,77,High School,Very Satisfied,Yes,Yes,2.47,No,Good
+1499,Female,11,5.31,100,100,High School,Very Satisfied,Yes,Yes,2.77,No,Excellent
+1500,Male,12,4.81,95,83,Bachelor's,Unsatisfied,No,Yes,2.07,No,Good
+1501,Male,12,4.17,79,62,Bachelor's,Unsatisfied,Yes,Yes,2.65,No,Excellent
+1502,Female,12,2.99,83,68,Master's,Satisfied,Yes,Yes,6.13,No,Good
+1503,Female,12,4.04,94,76,High School,Satisfied,No,No,2.63,Yes,Average
+1504,Female,10,5.22,73,72,Master's,Satisfied,Yes,Yes,4.19,No,Good
+1505,Male,12,1.92,66,73,PhD,Satisfied,No,Yes,3.25,No,Poor
+1506,Female,10,2.82,100,84,Bachelor's,Neutral,No,Yes,5.77,No,Poor
+1507,Female,9,1.46,100,93,PhD,Very Satisfied,Yes,Yes,5.97,No,Good
+1508,Male,10,3.87,82,60,High School,Satisfied,No,Yes,5.3,No,Good
+1509,Male,9,2.44,95,100,High School,Satisfied,Yes,Yes,4.46,No,Good
+1510,Male,12,5.31,80,58,High School,Very Satisfied,Yes,Yes,3.65,No,Good
+1511,Female,9,3.21,67,79,High School,Neutral,Yes,Yes,2.21,No,Average
+1512,Male,12,2.78,80,51,PhD,Satisfied,Yes,Yes,6.92,No,Good
+1513,Male,12,3.77,79,57,PhD,Satisfied,Yes,Yes,2.86,No,Good
+1514,Female,12,0,84,100,Bachelor's,Satisfied,Yes,Yes,5,No,Average
+1515,Female,11,5.49,80,65,Bachelor's,Very Satisfied,Yes,Yes,5.59,No,Excellent
+1516,Female,9,3.7,75,79,Master's,Satisfied,Yes,Yes,3.17,Yes,Good
+1517,Female,10,4.15,97,73,Bachelor's,Satisfied,No,Yes,5.56,No,Good
+1518,Male,10,2.69,76,62,High School,Satisfied,No,No,5.15,No,Excellent
+1519,Female,11,2.66,88,88,High School,Satisfied,Yes,Yes,6.59,No,Excellent
+1520,Female,10,1.8,99,70,Bachelor's,Satisfied,Yes,No,3.3,No,Excellent
+1521,Female,11,2.97,77,38,Master's,Satisfied,Yes,Yes,2.07,No,Average
+1522,Female,12,4.33,92,70,High School,Satisfied,Yes,No,3.24,No,Poor
+1523,Male,10,3.1,90,51,Master's,Satisfied,No,Yes,4.31,Yes,Average
+1524,Male,9,2.21,92,56,Master's,Unsatisfied,No,No,4.09,No,Average
+1525,Male,9,3.44,71,81,Bachelor's,Very Satisfied,Yes,Yes,3.41,No,Excellent
+1526,Male,9,2.95,68,92,Master's,Unsatisfied,Yes,Yes,1.14,No,Good
+1527,Female,11,1.9,76,78,High School,Satisfied,Yes,No,4.71,No,Poor
+1528,Female,12,4.72,74,75,High School,Satisfied,No,Yes,6.96,No,Average
+1529,Female,9,3.64,91,77,High School,Satisfied,Yes,Yes,4.7,No,Average
+1530,Female,9,2.45,76,76,Bachelor's,Satisfied,No,Yes,4.91,No,Good
+1531,Female,10,1.39,55,81,High School,Unsatisfied,No,No,4.86,No,Good
+1532,Male,10,4.36,61,59,High School,Satisfied,Yes,Yes,4.6,No,Excellent
+1533,Female,11,3.93,100,75,Master's,Unsatisfied,Yes,Yes,5.4,No,Excellent
+1534,Female,12,1.91,83,95,Bachelor's,Very Satisfied,No,Yes,4.59,No,Average
+1535,Male,11,2.03,77,67,Master's,Very Satisfied,Yes,Yes,3.53,Yes,Average
+1536,Male,9,1.57,86,99,Bachelor's,Satisfied,Yes,Yes,2.81,No,Average
+1537,Female,9,3.48,82,70,Master's,Satisfied,Yes,Yes,3.63,No,Average
+1538,Male,12,0.66,93,73,Master's,Satisfied,No,Yes,4.47,No,Excellent
+1539,Female,9,2.73,100,79,PhD,Very Satisfied,No,No,3.53,No,Good
+1540,Male,10,1.87,80,92,PhD,Satisfied,No,Yes,4.47,No,Good
+1541,Female,11,3.17,70,88,High School,Unsatisfied,No,Yes,4.66,No,Good
+1542,Female,9,2,100,91,High School,Very Satisfied,No,Yes,5.25,No,Poor
+1543,Male,10,2.33,97,76,Bachelor's,Satisfied,No,Yes,5.92,No,Poor
+1544,Female,9,4.28,89,62,Bachelor's,Satisfied,Yes,Yes,4.12,No,Good
+1545,Female,11,2.03,95,69,Bachelor's,Satisfied,Yes,Yes,2.04,No,Good
+1546,Male,11,2.39,75,81,High School,Satisfied,No,Yes,3.48,Yes,Average
+1547,Male,11,6.09,74,75,Master's,Satisfied,No,Yes,4.07,No,Good
+1548,Female,11,5.12,84,81,High School,Neutral,No,Yes,1.25,No,Excellent
+1549,Female,12,1.41,89,72,High School,Satisfied,Yes,Yes,6.08,No,Good
+1550,Female,12,4.48,96,100,High School,Satisfied,No,Yes,4.21,No,Good
+1551,Female,9,3.87,88,77,Master's,Neutral,No,Yes,4.57,No,Good
+1552,Male,9,2.47,88,70,High School,Neutral,Yes,Yes,6.05,No,Good
+1553,Male,12,3.25,98,59,Bachelor's,Neutral,Yes,Yes,3.05,No,Good
+1554,Male,11,4.71,98,73,Bachelor's,Satisfied,Yes,Yes,4.86,No,Excellent
+1555,Male,10,0,78,94,High School,Satisfied,Yes,Yes,3.84,Yes,Average
+1556,Female,9,2.97,75,67,High School,Satisfied,Yes,Yes,3.72,No,Good
+1557,Male,11,4.26,90,71,PhD,Unsatisfied,Yes,Yes,2.84,No,Average
+1558,Female,12,2.45,81,61,Master's,Satisfied,Yes,Yes,6.5,No,Average
+1559,Male,10,5.42,81,93,Master's,Neutral,No,Yes,3.44,No,Good
+1560,Female,11,5.28,94,68,Bachelor's,Neutral,No,Yes,5.05,No,Excellent
+1561,Male,12,3.61,84,61,Bachelor's,Neutral,No,Yes,1.19,Yes,Average
+1562,Male,11,3.49,73,92,Bachelor's,Neutral,Yes,Yes,5.77,No,Average
+1563,Female,10,2.3,87,79,Bachelor's,Neutral,Yes,Yes,5.58,No,Average
+1564,Male,12,2.61,90,67,Bachelor's,Satisfied,No,Yes,4.15,No,Good
+1565,Female,12,4.31,71,76,Bachelor's,Very Satisfied,Yes,Yes,3.66,No,Average
+1566,Male,11,5.91,74,64,Bachelor's,Very Satisfied,No,Yes,4.6,No,Average
+1567,Male,12,3.77,86,80,Bachelor's,Very Satisfied,No,Yes,7.43,No,Good
+1568,Female,11,3.73,91,91,Master's,Satisfied,Yes,Yes,1.36,Yes,Poor
+1569,Male,11,3.61,82,85,Bachelor's,Very Satisfied,No,Yes,5.17,No,Good
+1570,Female,11,5.85,83,60,High School,Satisfied,Yes,Yes,2.63,No,Good
+1571,Male,9,4.66,83,42,PhD,Satisfied,Yes,Yes,3.97,No,Average
+1572,Male,12,4.27,79,73,Master's,Very Satisfied,No,Yes,3.63,No,Good
+1573,Male,12,3.5,86,85,Master's,Neutral,Yes,Yes,3.36,No,Good
+1574,Female,10,2.35,90,71,Bachelor's,Neutral,No,Yes,3.98,No,Good
+1575,Female,12,4.11,91,60,High School,Very Satisfied,Yes,Yes,2.3,No,Good
+1576,Female,12,4.63,79,87,Bachelor's,Very Satisfied,Yes,Yes,5.54,No,Average
+1577,Female,9,3.55,100,71,Master's,Satisfied,Yes,Yes,1.31,Yes,Excellent
+1578,Male,9,2.48,84,70,Master's,Satisfied,No,Yes,4.81,No,Good
+1579,Female,10,4.2,68,59,Master's,Unsatisfied,Yes,Yes,3.51,No,Average
+1580,Female,11,1.4,94,100,PhD,Satisfied,Yes,Yes,2.24,Yes,Average
+1581,Male,9,2.84,83,76,Bachelor's,Satisfied,No,Yes,4.3,No,Poor
+1582,Male,12,4.74,75,78,Bachelor's,Satisfied,Yes,Yes,1.66,No,Poor
+1583,Male,11,4.46,90,77,PhD,Satisfied,No,Yes,4.06,No,Good
+1584,Female,12,4.5,57,85,PhD,Unsatisfied,Yes,Yes,1.87,No,Poor
+1585,Male,11,2.02,66,82,Bachelor's,Satisfied,No,Yes,4.69,No,Average
+1586,Male,12,5.06,83,89,Bachelor's,Unsatisfied,No,Yes,2.61,No,Good
+1587,Female,11,5.42,98,99,High School,Unsatisfied,Yes,No,3.32,No,Average
+1588,Male,9,4.11,85,50,Master's,Satisfied,Yes,Yes,4.44,No,Good
+1589,Male,10,2.63,76,100,Bachelor's,Satisfied,No,Yes,2.84,No,Good
+1590,Female,12,2.74,86,83,PhD,Neutral,Yes,No,3.91,Yes,Average
+1591,Female,10,3.07,100,65,High School,Satisfied,No,Yes,1.73,No,Good
+1592,Female,9,3.29,77,55,Master's,Very Satisfied,Yes,Yes,4.95,No,Good
+1593,Female,12,2.08,84,68,Bachelor's,Satisfied,Yes,Yes,6.65,No,Average
+1594,Male,11,1.96,70,73,Master's,Very Satisfied,Yes,Yes,8.19,No,Average
+1595,Male,9,0.74,92,76,Master's,Satisfied,No,Yes,4.14,No,Good
+1596,Female,11,0.81,81,63,High School,Neutral,Yes,Yes,5.18,No,Excellent
+1597,Female,11,3.48,98,46,Bachelor's,Satisfied,No,Yes,1.33,Yes,Good
+1598,Male,11,3.17,83,85,Bachelor's,Satisfied,No,Yes,6.25,No,Average
+1599,Male,11,3.32,77,70,PhD,Satisfied,Yes,No,5.16,No,Good
+1600,Male,11,1.81,95,75,High School,Satisfied,Yes,Yes,3.27,No,Good
+1601,Male,11,5.85,84,64,Master's,Satisfied,No,Yes,5.86,No,Good
+1602,Female,10,0.73,66,51,Bachelor's,Satisfied,Yes,Yes,3.62,Yes,Good
+1603,Female,10,3.4,90,51,Bachelor's,Satisfied,No,Yes,3.31,No,Good
+1604,Male,10,4.34,80,77,Bachelor's,Satisfied,Yes,Yes,4.71,No,Excellent
+1605,Male,11,5.42,93,70,PhD,Satisfied,Yes,No,2.4,Yes,Good
+1606,Male,12,1.66,63,64,PhD,Satisfied,No,Yes,5.53,No,Good
+1607,Female,12,2.68,75,73,Master's,Satisfied,Yes,Yes,2.42,No,Average
+1608,Female,12,3.12,82,65,High School,Satisfied,Yes,Yes,2.42,No,Excellent
+1609,Male,11,3.25,89,58,High School,Neutral,Yes,Yes,2.64,No,Excellent
+1610,Female,10,5.12,84,75,Master's,Satisfied,Yes,Yes,5.14,No,Average
+1611,Female,9,4.06,87,89,Bachelor's,Neutral,Yes,Yes,3.07,No,Good
+1612,Female,9,3.43,78,80,Master's,Satisfied,No,Yes,1.98,No,Average
+1613,Male,12,1.28,86,74,High School,Very Satisfied,Yes,Yes,3.09,No,Good
+1614,Male,11,2.69,83,46,PhD,Unsatisfied,Yes,Yes,3.95,No,Good
+1615,Female,11,2.18,85,77,PhD,Unsatisfied,No,Yes,2.23,No,Average
+1616,Male,10,1.46,97,62,High School,Satisfied,Yes,Yes,2.27,No,Excellent
+1617,Female,12,4.45,89,65,High School,Neutral,Yes,Yes,7.17,No,Average
+1618,Male,10,5.66,73,88,Master's,Satisfied,No,Yes,2.71,No,Good
+1619,Female,10,4.5,78,95,Bachelor's,Satisfied,No,Yes,3.52,Yes,Good
+1620,Female,11,2.62,87,78,PhD,Satisfied,Yes,No,3.45,No,Average
+1621,Male,10,2.8,93,86,PhD,Satisfied,No,No,3.37,Yes,Average
+1622,Male,11,0.38,98,50,PhD,Neutral,Yes,Yes,4.93,No,Average
+1623,Male,10,4.55,96,58,High School,Satisfied,No,Yes,5.42,No,Good
+1624,Male,12,2.38,73,71,Bachelor's,Satisfied,Yes,Yes,3.54,Yes,Good
+1625,Female,12,2.54,92,94,Bachelor's,Unsatisfied,Yes,Yes,2.15,No,Average
+1626,Male,12,5.09,79,71,Bachelor's,Neutral,Yes,Yes,5.91,No,Average
+1627,Female,12,0.47,76,89,PhD,Satisfied,Yes,Yes,3.86,No,Poor
+1628,Male,9,5.42,72,66,Master's,Satisfied,Yes,Yes,6.6,No,Good
+1629,Female,9,2.96,87,62,Master's,Satisfied,No,No,1,No,Good
+1630,Female,10,3.64,80,74,Bachelor's,Satisfied,Yes,Yes,4.29,No,Poor
+1631,Female,11,3.82,85,68,Bachelor's,Neutral,Yes,Yes,6.88,Yes,Good
+1632,Female,11,2.84,84,69,PhD,Satisfied,Yes,Yes,3.47,No,Poor
+1633,Male,9,2.61,100,83,Master's,Very Satisfied,Yes,Yes,3.66,No,Excellent
+1634,Male,9,2.56,91,69,PhD,Neutral,No,Yes,4.44,No,Excellent
+1635,Female,9,4.76,88,73,PhD,Satisfied,Yes,Yes,3.16,No,Good
+1636,Male,11,3.67,69,58,High School,Very Satisfied,Yes,Yes,3.53,No,Excellent
+1637,Female,9,1.21,86,100,Master's,Neutral,Yes,Yes,3.49,No,Excellent
+1638,Female,10,6.35,91,82,High School,Satisfied,No,Yes,3.06,No,Excellent
+1639,Male,12,0.3,79,63,Master's,Satisfied,Yes,Yes,5.84,No,Good
+1640,Male,10,2.07,83,67,Bachelor's,Neutral,Yes,Yes,4.69,No,Average
+1641,Male,12,0.03,92,58,High School,Satisfied,Yes,Yes,4.38,No,Average
+1642,Male,12,3.36,100,61,Master's,Satisfied,Yes,Yes,5.21,No,Average
+1643,Male,12,0,82,91,High School,Very Satisfied,Yes,Yes,3.6,Yes,Good
+1644,Male,11,5.94,72,82,Bachelor's,Neutral,No,Yes,2.84,No,Average
+1645,Female,10,2.3,83,100,Master's,Satisfied,No,Yes,3.1,Yes,Average
+1646,Male,9,0.75,87,82,Master's,Neutral,No,Yes,4,No,Good
+1647,Female,10,4.63,85,79,Master's,Neutral,Yes,Yes,2.41,No,Average
+1648,Female,12,2.41,87,69,PhD,Unsatisfied,Yes,Yes,3.25,No,Good
+1649,Male,10,3.93,81,80,Master's,Satisfied,Yes,Yes,3.23,No,Excellent
+1650,Female,11,2.96,96,74,PhD,Satisfied,No,Yes,7.19,No,Good
+1651,Male,10,0.34,97,61,Bachelor's,Unsatisfied,Yes,Yes,1,No,Good
+1652,Female,9,2.02,79,95,Master's,Satisfied,No,Yes,3.73,No,Good
+1653,Female,10,0,100,90,Bachelor's,Satisfied,Yes,Yes,6.59,Yes,Good
+1654,Female,11,3.33,84,79,Master's,Satisfied,Yes,Yes,4.18,No,Average
+1655,Male,12,3.78,91,83,Bachelor's,Neutral,Yes,Yes,5.13,Yes,Excellent
+1656,Male,9,3.13,83,72,PhD,Very Satisfied,Yes,Yes,4.15,No,Average
+1657,Male,12,2.71,96,83,PhD,Satisfied,No,Yes,3,No,Poor
+1658,Female,10,0,91,77,Master's,Very Satisfied,No,Yes,1,No,Good
+1659,Male,9,2.97,81,91,Bachelor's,Unsatisfied,Yes,Yes,4.31,No,Average
+1660,Male,9,4.42,77,81,PhD,Very Satisfied,Yes,Yes,2.84,No,Average
+1661,Female,11,1.54,71,65,Master's,Satisfied,No,Yes,2.8,No,Poor
+1662,Female,12,4.29,94,82,Master's,Unsatisfied,No,Yes,3.25,No,Average
+1663,Male,11,4.09,90,65,High School,Unsatisfied,Yes,Yes,6.62,No,Average
+1664,Male,10,3.65,93,86,Bachelor's,Satisfied,Yes,Yes,7.61,No,Poor
+1665,Male,11,4.78,92,80,Master's,Satisfied,Yes,Yes,4.33,No,Good
+1666,Male,9,4.61,84,61,High School,Very Satisfied,Yes,Yes,3.3,No,Excellent
+1667,Male,12,2.76,77,64,Master's,Unsatisfied,Yes,Yes,2.23,Yes,Average
+1668,Male,9,2.78,77,70,High School,Neutral,Yes,No,4.7,No,Excellent
+1669,Male,10,0.16,87,75,Bachelor's,Satisfied,Yes,Yes,6.67,No,Average
+1670,Female,10,1.77,91,89,Bachelor's,Satisfied,Yes,Yes,3.63,No,Average
+1671,Female,9,0.59,77,63,Master's,Unsatisfied,Yes,Yes,1,No,Average
+1672,Female,11,1.59,93,72,Bachelor's,Neutral,No,Yes,5.01,No,Good
+1673,Male,12,2.6,64,84,Bachelor's,Satisfied,No,Yes,5.48,No,Good
+1674,Female,10,1.14,85,79,Bachelor's,Neutral,Yes,Yes,1.62,No,Good
+1675,Male,9,5.04,71,30,High School,Satisfied,No,No,4.26,No,Good
+1676,Male,9,3.28,100,93,High School,Satisfied,No,Yes,4.68,No,Good
+1677,Female,10,3.31,80,87,High School,Very Satisfied,Yes,Yes,3.89,No,Good
+1678,Male,12,1.54,89,82,High School,Neutral,Yes,Yes,2.81,No,Excellent
+1679,Female,11,4.59,100,80,Master's,Satisfied,No,Yes,5.52,No,Average
+1680,Male,9,2.24,84,48,High School,Very Satisfied,No,Yes,3.39,No,Average
+1681,Male,12,1.96,80,67,High School,Satisfied,No,Yes,1.77,Yes,Good
+1682,Female,11,3.23,76,91,Bachelor's,Satisfied,No,Yes,1,Yes,Good
+1683,Male,11,3,84,70,High School,Satisfied,No,Yes,5.89,No,Average
+1684,Female,10,3.23,93,61,Bachelor's,Satisfied,Yes,Yes,4.92,Yes,Average
+1685,Female,10,2.01,81,54,Master's,Satisfied,Yes,Yes,4.13,Yes,Good
+1686,Male,10,1.77,80,88,High School,Satisfied,Yes,Yes,3.34,No,Good
+1687,Male,11,3.39,86,87,Master's,Satisfied,Yes,Yes,3.21,No,Average
+1688,Male,11,2.79,88,73,High School,Satisfied,No,Yes,2.39,No,Excellent
+1689,Female,9,3.4,79,38,High School,Very Satisfied,Yes,Yes,3.35,No,Good
+1690,Female,12,2.8,99,88,PhD,Very Satisfied,No,Yes,1,No,Good
+1691,Male,11,4.45,97,76,High School,Very Satisfied,Yes,Yes,2.9,No,Good
+1692,Female,11,3.3,78,70,Bachelor's,Satisfied,Yes,Yes,3.53,No,Excellent
+1693,Male,10,3.92,97,72,Master's,Satisfied,Yes,Yes,4.91,No,Average
+1694,Male,12,2.32,85,84,Master's,Neutral,Yes,Yes,3.94,Yes,Average
+1695,Female,11,0.83,62,66,PhD,Very Satisfied,No,Yes,5.19,No,Good
+1696,Female,11,1.17,79,72,Bachelor's,Neutral,No,Yes,6.02,Yes,Good
+1697,Male,10,2.32,99,79,High School,Satisfied,No,Yes,5.59,No,Poor
+1698,Male,10,3.45,91,57,High School,Satisfied,Yes,Yes,4.71,No,Excellent
+1699,Female,12,4.56,84,85,High School,Satisfied,Yes,Yes,4.02,No,Good
+1700,Male,12,1.39,69,87,Bachelor's,Neutral,Yes,Yes,2.53,No,Average
+1701,Male,9,3.56,75,61,High School,Satisfied,Yes,Yes,5.11,No,Average
+1702,Male,10,4.69,73,99,Master's,Satisfied,No,Yes,6.52,No,Average
+1703,Male,10,1.65,91,70,PhD,Satisfied,No,Yes,4.51,No,Good
+1704,Male,11,3.9,79,72,Bachelor's,Very Satisfied,No,Yes,6.88,No,Excellent
+1705,Male,12,3.06,74,86,PhD,Satisfied,Yes,Yes,1.71,Yes,Good
+1706,Male,9,2.23,82,60,Bachelor's,Very Satisfied,No,Yes,2.27,Yes,Excellent
+1707,Male,9,0,83,100,High School,Very Satisfied,Yes,Yes,5.28,No,Excellent
+1708,Male,10,4.18,84,71,High School,Satisfied,No,No,4.4,Yes,Good
+1709,Male,11,3.03,90,57,PhD,Unsatisfied,Yes,Yes,5.97,No,Good
+1710,Male,10,4.67,92,85,PhD,Satisfied,Yes,Yes,3.98,No,Good
+1711,Male,9,3.66,85,85,PhD,Very Satisfied,Yes,Yes,2.7,No,Good
+1712,Female,9,3.89,81,66,High School,Satisfied,No,Yes,3.68,Yes,Poor
+1713,Male,12,3.15,100,56,Master's,Satisfied,Yes,Yes,1.7,No,Good
+1714,Male,12,0.8,86,75,Master's,Neutral,Yes,Yes,2.31,Yes,Poor
+1715,Male,10,3.26,87,71,Bachelor's,Satisfied,No,Yes,5.46,Yes,Excellent
+1716,Male,9,5.23,68,62,Master's,Satisfied,Yes,Yes,5.31,Yes,Excellent
+1717,Female,12,2.85,68,72,Bachelor's,Satisfied,Yes,Yes,4.54,No,Average
+1718,Male,9,5.49,85,78,Bachelor's,Neutral,Yes,Yes,1.42,Yes,Average
+1719,Male,10,1.11,78,69,Master's,Very Satisfied,Yes,Yes,3.46,No,Good
+1720,Male,12,2.52,97,83,Master's,Satisfied,No,Yes,2.16,Yes,Good
+1721,Female,11,1.33,87,82,PhD,Satisfied,No,Yes,5.76,Yes,Average
+1722,Female,11,4.71,100,59,High School,Satisfied,Yes,Yes,3.12,No,Good
+1723,Male,9,1.78,72,71,PhD,Satisfied,No,Yes,2.37,No,Average
+1724,Male,12,3.7,94,73,Bachelor's,Satisfied,Yes,Yes,4.04,No,Poor
+1725,Male,10,2.52,86,62,High School,Satisfied,Yes,Yes,3.04,No,Poor
+1726,Female,9,6.13,68,77,Master's,Very Satisfied,Yes,Yes,6.23,No,Average
+1727,Female,11,6.04,85,72,PhD,Very Satisfied,Yes,No,2.9,No,Good
+1728,Male,10,2.46,83,95,High School,Satisfied,Yes,Yes,1.9,No,Excellent
+1729,Female,9,0,100,53,Master's,Satisfied,No,Yes,1,No,Good
+1730,Male,10,2.6,80,83,Master's,Very Satisfied,No,Yes,3.95,No,Good
+1731,Female,11,0.6,89,100,High School,Unsatisfied,Yes,Yes,3.16,No,Average
+1732,Male,10,0.96,86,65,Master's,Unsatisfied,Yes,Yes,1.86,No,Good
+1733,Female,9,3.64,85,65,Bachelor's,Satisfied,No,Yes,5.78,No,Average
+1734,Male,11,3.73,100,72,Master's,Very Satisfied,No,Yes,5,Yes,Good
+1735,Female,9,4.08,72,60,High School,Satisfied,No,Yes,3.96,No,Excellent
+1736,Male,9,3.71,99,80,Master's,Very Satisfied,Yes,Yes,6.05,No,Average
+1737,Male,11,2.53,84,56,Master's,Satisfied,No,Yes,4.99,No,Good
+1738,Male,11,3.91,93,68,Bachelor's,Neutral,Yes,Yes,2.77,Yes,Poor
+1739,Male,12,2.29,87,68,Master's,Very Satisfied,Yes,Yes,2.44,No,Average
+1740,Female,10,2.9,100,71,Master's,Satisfied,Yes,Yes,5.23,Yes,Average
+1741,Female,10,2.46,78,86,Master's,Very Satisfied,Yes,Yes,4.59,No,Average
+1742,Female,11,2.73,78,94,Master's,Neutral,Yes,Yes,4.25,Yes,Average
+1743,Male,9,5.13,78,47,PhD,Very Satisfied,Yes,Yes,2.73,No,Average
+1744,Female,9,4.51,78,86,High School,Satisfied,Yes,Yes,4.91,No,Good
+1745,Male,9,0.04,93,56,PhD,Neutral,No,No,2.87,Yes,Average
+1746,Male,10,4.1,85,60,Bachelor's,Satisfied,Yes,Yes,3.85,No,Good
+1747,Male,11,2.39,91,76,Bachelor's,Neutral,Yes,Yes,6.17,No,Excellent
+1748,Male,9,3.88,100,51,Bachelor's,Satisfied,Yes,Yes,3.01,Yes,Good
+1749,Male,9,5.43,86,61,Bachelor's,Satisfied,No,Yes,1.64,No,Average
+1750,Male,12,1,83,88,Bachelor's,Satisfied,Yes,Yes,2.42,No,Average
+1751,Female,9,2.81,100,53,Master's,Satisfied,Yes,No,5.49,No,Excellent
+1752,Male,10,2.98,72,80,Bachelor's,Satisfied,Yes,Yes,4.38,Yes,Good
+1753,Male,11,4.33,80,35,High School,Neutral,No,No,3.81,No,Good
+1754,Male,9,3.3,89,81,Bachelor's,Very Satisfied,No,Yes,3.24,No,Average
+1755,Male,9,4.85,74,85,Bachelor's,Very Satisfied,Yes,Yes,4.73,No,Good
+1756,Male,11,4.79,67,79,Bachelor's,Satisfied,Yes,Yes,2.73,No,Average
+1757,Female,9,2.24,84,80,Bachelor's,Satisfied,No,Yes,4.46,No,Excellent
+1758,Female,10,2.27,78,75,High School,Satisfied,Yes,Yes,2.9,Yes,Excellent
+1759,Male,12,1.37,74,85,Master's,Satisfied,No,Yes,2.65,Yes,Poor
+1760,Female,11,1.28,91,81,Bachelor's,Unsatisfied,Yes,Yes,3.04,No,Good
+1761,Female,12,0.41,78,92,High School,Satisfied,Yes,Yes,3.44,No,Average
+1762,Female,9,1.53,80,81,Bachelor's,Satisfied,Yes,Yes,3.93,Yes,Good
+1763,Female,10,4.18,82,66,High School,Neutral,Yes,Yes,4.35,No,Excellent
+1764,Female,9,5.13,100,89,Bachelor's,Neutral,No,Yes,1,No,Good
+1765,Female,12,3.13,76,62,Bachelor's,Satisfied,No,Yes,2.79,No,Average
+1766,Male,12,3.78,89,96,High School,Very Satisfied,Yes,Yes,3.41,Yes,Average
+1767,Female,10,3.98,69,90,Bachelor's,Neutral,No,Yes,6.26,Yes,Excellent
+1768,Female,11,1.5,81,78,High School,Neutral,Yes,Yes,2.38,No,Good
+1769,Male,10,5.99,100,84,Master's,Satisfied,Yes,Yes,4.24,No,Good
+1770,Male,11,2.73,90,88,Master's,Satisfied,Yes,Yes,6.24,No,Average
+1771,Male,9,2.52,100,78,Master's,Very Satisfied,No,Yes,2.03,No,Average
+1772,Female,12,3.75,91,81,Bachelor's,Neutral,No,Yes,4.59,No,Excellent
+1773,Female,9,4.26,78,66,Bachelor's,Very Satisfied,No,No,2.8,No,Good
+1774,Male,10,1.35,89,86,High School,Satisfied,No,Yes,3.24,No,Good
+1775,Male,10,3.69,100,74,PhD,Very Satisfied,No,Yes,2.8,No,Good
+1776,Male,9,4,74,69,Bachelor's,Very Satisfied,No,No,2.9,No,Good
+1777,Female,10,4.04,93,70,PhD,Satisfied,No,Yes,8.08,No,Average
+1778,Female,11,2.89,69,69,PhD,Very Satisfied,No,Yes,5.27,No,Average
+1779,Male,9,4.34,90,82,Bachelor's,Satisfied,Yes,No,5.65,No,Good
+1780,Female,11,3.07,85,65,Bachelor's,Very Satisfied,Yes,Yes,4.74,No,Good
+1781,Male,12,4.05,89,82,High School,Neutral,Yes,Yes,1.59,No,Good
+1782,Male,9,2.21,63,91,Bachelor's,Neutral,Yes,Yes,4.59,No,Excellent
+1783,Female,11,2.28,76,85,PhD,Neutral,Yes,Yes,5.61,No,Average
+1784,Female,12,2.41,95,84,High School,Neutral,Yes,Yes,2.72,No,Poor
+1785,Male,12,4.03,71,93,High School,Very Satisfied,No,Yes,5.45,No,Excellent
+1786,Female,10,3.39,81,77,High School,Satisfied,Yes,Yes,5.06,No,Good
+1787,Female,11,0.34,89,59,High School,Very Satisfied,Yes,Yes,6.78,No,Good
+1788,Female,11,0.97,69,91,Bachelor's,Satisfied,Yes,Yes,3.37,No,Good
+1789,Male,10,2.06,100,66,High School,Very Satisfied,No,Yes,2.35,No,Good
+1790,Female,11,0.44,73,93,Bachelor's,Satisfied,Yes,Yes,3.46,Yes,Average
+1791,Male,10,2.77,79,77,Bachelor's,Very Satisfied,Yes,Yes,6.15,No,Good
+1792,Female,12,3.75,96,96,Master's,Very Satisfied,No,Yes,1.26,No,Excellent
+1793,Male,10,2.46,71,68,High School,Satisfied,No,Yes,1,No,Good
+1794,Female,10,3.39,75,60,Master's,Satisfied,Yes,Yes,4.13,No,Good
+1795,Male,10,3.52,84,75,High School,Very Satisfied,Yes,Yes,3.34,No,Average
+1796,Male,10,1.86,82,61,High School,Unsatisfied,Yes,Yes,4.01,No,Poor
+1797,Female,10,4.34,95,47,Bachelor's,Very Satisfied,No,Yes,5.42,Yes,Average
+1798,Female,9,1.61,70,65,Master's,Neutral,Yes,Yes,3.17,No,Average
+1799,Female,12,2.87,70,61,High School,Very Satisfied,Yes,Yes,1.19,No,Excellent
+1800,Female,11,1.49,87,76,High School,Very Satisfied,Yes,Yes,7.07,No,Good
+1801,Male,11,1.92,86,66,High School,Unsatisfied,Yes,No,2.5,Yes,Good
+1802,Male,10,2.59,100,95,Master's,Satisfied,No,Yes,2.41,Yes,Good
+1803,Female,12,1.05,93,87,Bachelor's,Very Satisfied,Yes,Yes,5.66,No,Average
+1804,Male,12,1.28,93,98,PhD,Satisfied,Yes,Yes,3.42,No,Excellent
+1805,Male,10,1.32,75,90,Bachelor's,Very Satisfied,Yes,Yes,3.9,No,Average
+1806,Female,11,3.41,90,80,Bachelor's,Satisfied,Yes,No,4.72,No,Average
+1807,Female,12,3.59,71,90,Bachelor's,Satisfied,Yes,Yes,5.63,No,Good
+1808,Female,9,4.75,82,74,High School,Very Satisfied,No,Yes,3.5,No,Excellent
+1809,Female,11,0.7,90,83,Bachelor's,Neutral,No,Yes,6.28,No,Excellent
+1810,Male,11,2.91,96,69,PhD,Satisfied,No,Yes,1,No,Poor
+1811,Female,11,3.85,74,74,Master's,Very Satisfied,No,Yes,5.14,Yes,Excellent
+1812,Female,10,2.74,87,69,High School,Satisfied,No,Yes,2.74,No,Average
+1813,Male,12,2.8,93,68,Master's,Satisfied,Yes,Yes,6.06,No,Poor
+1814,Male,12,0.59,100,95,PhD,Neutral,No,Yes,4.21,No,Excellent
+1815,Female,12,1.06,91,67,Bachelor's,Unsatisfied,No,Yes,2.99,No,Excellent
+1816,Male,11,3.4,87,71,Master's,Neutral,No,Yes,4.99,No,Good
+1817,Female,11,1.82,78,61,Bachelor's,Very Satisfied,Yes,Yes,5.34,Yes,Good
+1818,Male,11,1.75,84,64,High School,Neutral,Yes,Yes,4.96,No,Excellent
+1819,Female,10,4.02,99,66,PhD,Very Satisfied,No,Yes,2.46,No,Good
+1820,Male,10,3.36,89,82,Bachelor's,Satisfied,No,Yes,3.27,No,Excellent
+1821,Female,12,3.11,92,82,Master's,Satisfied,No,Yes,3.99,Yes,Good
+1822,Female,11,1.14,93,88,Bachelor's,Neutral,Yes,Yes,3.94,No,Excellent
+1823,Male,9,1.86,85,85,Bachelor's,Neutral,Yes,Yes,5.12,Yes,Excellent
+1824,Male,12,2.69,95,100,Bachelor's,Satisfied,Yes,Yes,1,Yes,Average
+1825,Male,10,1.82,71,79,PhD,Satisfied,No,Yes,4.5,No,Excellent
+1826,Female,10,4.08,82,96,Bachelor's,Satisfied,Yes,Yes,3.57,No,Good
+1827,Male,12,0.99,91,65,Bachelor's,Very Satisfied,Yes,Yes,2.74,No,Average
+1828,Female,9,5.58,100,63,High School,Neutral,No,Yes,2.89,No,Good
+1829,Male,10,2.18,93,69,Bachelor's,Satisfied,Yes,Yes,3.68,No,Poor
+1830,Male,10,2.93,85,46,Master's,Satisfied,No,Yes,1,No,Good
+1831,Female,12,2.98,78,67,PhD,Satisfied,Yes,Yes,2.95,No,Excellent
+1832,Male,10,5.17,72,87,Master's,Very Satisfied,No,Yes,2.69,No,Average
+1833,Female,10,2.58,82,86,High School,Unsatisfied,Yes,Yes,4.8,No,Good
+1834,Male,10,3.51,90,89,Master's,Satisfied,No,Yes,2.79,No,Excellent
+1835,Male,9,2.5,78,58,Bachelor's,Satisfied,No,Yes,3.68,No,Good
+1836,Male,9,1.76,100,93,Master's,Neutral,Yes,Yes,6.31,No,Average
+1837,Female,12,0.97,71,82,Master's,Satisfied,Yes,Yes,5.49,Yes,Good
+1838,Female,12,3.82,90,71,PhD,Very Satisfied,Yes,Yes,5.35,No,Good
+1839,Female,12,2.81,88,76,Bachelor's,Neutral,No,Yes,3.25,Yes,Good
+1840,Female,9,0,82,62,High School,Satisfied,No,Yes,4.81,No,Excellent
+1841,Male,10,3.26,100,80,Master's,Satisfied,Yes,Yes,3.65,Yes,Good
+1842,Male,9,2.53,94,82,Bachelor's,Satisfied,No,No,3.71,No,Excellent
+1843,Male,12,3.63,91,100,PhD,Neutral,Yes,No,4.61,No,Good
+1844,Male,9,1.3,89,61,Master's,Satisfied,No,Yes,3.1,No,Average
+1845,Male,9,3.83,75,68,Master's,Satisfied,No,Yes,6.24,No,Good
+1846,Female,9,2.56,94,88,Bachelor's,Satisfied,Yes,Yes,3.76,No,Good
+1847,Male,10,1.13,85,64,Master's,Satisfied,Yes,Yes,4.93,No,Good
+1848,Female,12,1.11,82,70,Master's,Satisfied,Yes,Yes,6.18,No,Poor
+1849,Female,10,6.64,89,54,Bachelor's,Very Satisfied,Yes,Yes,5.55,No,Average
+1850,Male,11,2.15,95,100,High School,Neutral,Yes,Yes,1.89,No,Average
+1851,Male,10,0.62,66,100,Master's,Very Satisfied,Yes,Yes,4.67,No,Average
+1852,Male,11,3.58,76,83,Master's,Neutral,Yes,Yes,5.28,No,Good
+1853,Male,12,0,85,79,PhD,Satisfied,Yes,Yes,5.34,No,Poor
+1854,Female,11,4.39,74,76,High School,Unsatisfied,Yes,Yes,2.33,No,Good
+1855,Male,9,1.61,87,61,Master's,Satisfied,Yes,No,3.01,No,Average
+1856,Male,9,2.39,75,84,Master's,Unsatisfied,Yes,Yes,5.49,No,Average
+1857,Male,11,4.29,82,75,Master's,Satisfied,No,Yes,2.86,No,Good
+1858,Female,11,0.83,82,74,Bachelor's,Unsatisfied,No,Yes,3.55,No,Average
+1859,Male,9,6.93,73,96,PhD,Satisfied,Yes,Yes,6.36,Yes,Excellent
+1860,Female,12,4.5,87,100,Master's,Unsatisfied,Yes,Yes,3.93,No,Poor
+1861,Male,9,3.56,88,74,PhD,Satisfied,No,Yes,2.91,Yes,Good
+1862,Male,11,4.84,95,65,Bachelor's,Satisfied,No,Yes,2.68,No,Excellent
+1863,Female,9,1.02,82,62,Bachelor's,Satisfied,Yes,Yes,4.5,Yes,Good
+1864,Male,12,2.9,97,68,Bachelor's,Satisfied,Yes,Yes,2,No,Average
+1865,Female,12,2.94,85,87,Master's,Satisfied,Yes,No,3.63,No,Good
+1866,Male,9,0,78,78,High School,Satisfied,Yes,Yes,4.5,Yes,Good
+1867,Male,9,4.8,80,46,Bachelor's,Satisfied,Yes,No,5.95,No,Excellent
+1868,Female,10,3.93,78,57,Master's,Satisfied,Yes,Yes,5,No,Excellent
+1869,Male,10,2.06,83,65,Bachelor's,Satisfied,No,Yes,2.93,No,Average
+1870,Female,12,0,93,94,High School,Neutral,Yes,Yes,5.77,No,Excellent
+1871,Female,9,3.98,73,71,Master's,Satisfied,Yes,Yes,3.55,No,Poor
+1872,Male,11,2.99,90,85,Bachelor's,Satisfied,Yes,Yes,2.15,Yes,Poor
+1873,Male,12,1.9,85,81,Master's,Neutral,Yes,Yes,3.74,No,Excellent
+1874,Female,12,5.18,92,86,High School,Very Satisfied,Yes,Yes,6.16,No,Average
+1875,Male,9,3.13,99,81,Master's,Neutral,Yes,Yes,4.25,No,Poor
+1876,Female,12,1.71,99,85,PhD,Unsatisfied,No,Yes,4.02,Yes,Average
+1877,Female,11,2.34,80,79,High School,Very Satisfied,Yes,Yes,6.46,Yes,Good
+1878,Male,10,3.69,86,79,Bachelor's,Satisfied,No,Yes,1.85,No,Good
+1879,Male,9,5.55,95,77,Bachelor's,Very Satisfied,No,Yes,2.07,No,Good
+1880,Female,9,4.41,74,80,PhD,Satisfied,Yes,Yes,1.58,No,Average
+1881,Male,12,5.71,82,62,Master's,Unsatisfied,Yes,Yes,4.56,Yes,Good
+1882,Female,12,2.02,74,63,High School,Satisfied,Yes,Yes,4.25,No,Excellent
+1883,Male,11,2.44,70,75,PhD,Satisfied,No,Yes,6.31,No,Excellent
+1884,Female,11,4.35,75,97,Bachelor's,Unsatisfied,No,Yes,4.37,No,Average
+1885,Male,12,3.77,95,65,Bachelor's,Satisfied,No,Yes,3.39,No,Excellent
+1886,Female,11,4.28,74,88,Master's,Neutral,Yes,Yes,4,Yes,Good
+1887,Male,9,3.26,90,57,Bachelor's,Very Satisfied,No,Yes,4.18,No,Poor
+1888,Female,11,1.66,90,60,Master's,Unsatisfied,Yes,Yes,1.49,No,Poor
+1889,Male,12,3.69,71,87,High School,Satisfied,Yes,No,8.07,No,Average
+1890,Female,9,1.15,90,84,Bachelor's,Neutral,Yes,Yes,4.78,No,Good
+1891,Male,12,1.95,90,78,High School,Very Satisfied,Yes,Yes,4.32,No,Average
+1892,Male,11,2.19,74,45,High School,Satisfied,No,Yes,4.92,No,Good
+1893,Male,12,3.52,69,76,Bachelor's,Satisfied,Yes,Yes,5.06,No,Poor
+1894,Male,12,2.6,91,70,High School,Satisfied,Yes,Yes,3.79,No,Excellent
+1895,Female,12,2.51,92,80,PhD,Satisfied,Yes,Yes,3.05,Yes,Average
+1896,Male,10,3.47,89,51,Master's,Neutral,No,No,4.9,No,Excellent
+1897,Female,11,4.14,91,59,Bachelor's,Satisfied,No,Yes,4.58,No,Excellent
+1898,Male,11,2.63,84,72,Bachelor's,Satisfied,Yes,No,2.79,No,Poor
+1899,Female,12,3.5,99,91,Master's,Neutral,Yes,Yes,6.13,No,Good
+1900,Female,11,1.03,91,94,Master's,Very Satisfied,Yes,Yes,4.44,No,Poor
+1901,Male,10,3.58,95,100,High School,Satisfied,No,Yes,5.09,No,Excellent
+1902,Female,10,4.54,87,90,PhD,Satisfied,Yes,Yes,6.09,No,Good
+1903,Male,11,3.22,85,69,Master's,Satisfied,Yes,Yes,4.03,No,Poor
+1904,Female,12,5.35,76,97,Master's,Very Satisfied,Yes,No,4.48,No,Average
+1905,Female,12,3.75,71,80,Master's,Satisfied,Yes,Yes,5.22,No,Average
+1906,Male,12,0,91,88,High School,Satisfied,No,Yes,2.91,No,Excellent
+1907,Male,11,2.11,86,100,Master's,Neutral,Yes,Yes,4.08,Yes,Good
+1908,Female,11,2.24,74,97,High School,Unsatisfied,Yes,Yes,4.19,No,Excellent
+1909,Female,10,5.94,85,90,Master's,Unsatisfied,Yes,Yes,2.57,No,Average
+1910,Female,9,5.01,77,67,Master's,Satisfied,Yes,Yes,7.48,No,Poor
+1911,Male,12,4.85,100,83,High School,Satisfied,No,Yes,1.89,No,Excellent
+1912,Female,9,1.68,100,67,PhD,Satisfied,Yes,Yes,2.05,No,Poor
+1913,Female,9,2.5,88,98,High School,Neutral,No,Yes,5.97,No,Excellent
+1914,Female,10,4.28,89,81,PhD,Satisfied,No,Yes,5.07,No,Average
+1915,Female,10,3.07,90,37,Master's,Very Satisfied,Yes,No,2.46,No,Poor
+1916,Female,12,2.56,87,57,High School,Satisfied,Yes,Yes,4.91,No,Good
+1917,Male,10,3.58,82,100,Master's,Neutral,Yes,Yes,6.2,No,Excellent
+1918,Male,12,5.36,80,72,Bachelor's,Neutral,No,Yes,3.95,Yes,Excellent
+1919,Male,11,2.89,80,77,High School,Satisfied,Yes,Yes,7.9,No,Average
+1920,Male,9,1.86,73,84,High School,Satisfied,Yes,Yes,1.41,No,Average
+1921,Male,11,3.94,76,88,Bachelor's,Satisfied,Yes,Yes,5.04,Yes,Good
+1922,Female,9,2.05,87,87,Master's,Satisfied,No,Yes,5.75,No,Good
+1923,Male,10,2.95,89,67,Bachelor's,Satisfied,Yes,Yes,5.34,No,Good
+1924,Male,12,2.71,82,63,Bachelor's,Satisfied,Yes,Yes,3.69,No,Average
+1925,Female,10,2.73,69,67,PhD,Satisfied,Yes,Yes,3.56,No,Excellent
+1926,Female,11,2.57,82,71,Bachelor's,Very Satisfied,Yes,Yes,4.67,No,Good
+1927,Female,9,2.91,89,88,High School,Satisfied,No,Yes,5.22,No,Excellent
+1928,Male,10,2.03,72,59,PhD,Satisfied,Yes,Yes,4.9,Yes,Good
+1929,Female,12,2.27,81,63,PhD,Very Satisfied,No,Yes,5.56,No,Good
+1930,Female,11,1.06,80,77,Bachelor's,Neutral,No,No,2.47,No,Excellent
+1931,Female,12,3.89,79,68,Bachelor's,Neutral,Yes,Yes,3.66,No,Good
+1932,Male,11,1.61,84,62,Bachelor's,Very Satisfied,No,Yes,2.59,Yes,Excellent
+1933,Male,9,3.86,67,69,Master's,Neutral,Yes,Yes,3.42,No,Excellent
+1934,Male,12,3.45,86,100,Master's,Neutral,Yes,Yes,5.52,Yes,Good
+1935,Female,9,3.52,74,73,Master's,Neutral,No,No,4.16,No,Good
+1936,Female,11,0.34,84,62,High School,Unsatisfied,Yes,Yes,7.91,No,Poor
+1937,Male,11,4.37,79,73,Bachelor's,Satisfied,No,Yes,4.29,Yes,Poor
+1938,Male,11,2.05,100,70,Bachelor's,Satisfied,Yes,Yes,4.09,No,Average
+1939,Female,12,5.75,93,82,Bachelor's,Satisfied,No,Yes,4.16,No,Average
+1940,Male,9,3.55,88,46,Master's,Satisfied,Yes,No,3.04,No,Average
+1941,Male,9,2.58,93,74,Bachelor's,Satisfied,Yes,Yes,3.91,No,Average
+1942,Female,11,0.89,84,100,Master's,Neutral,Yes,Yes,5.69,Yes,Average
+1943,Female,12,4.87,84,89,Bachelor's,Satisfied,No,Yes,4.17,No,Good
+1944,Female,10,2.45,67,61,Bachelor's,Neutral,No,Yes,2.81,Yes,Poor
+1945,Female,11,5.34,82,71,PhD,Neutral,Yes,Yes,2.61,No,Poor
+1946,Female,9,2.55,100,99,Bachelor's,Satisfied,No,Yes,3.32,No,Good
+1947,Male,9,6.33,83,79,High School,Satisfied,Yes,No,4.11,No,Good
+1948,Male,11,0.73,99,57,High School,Satisfied,Yes,Yes,5.79,No,Good
+1949,Female,10,3.33,74,66,Bachelor's,Satisfied,No,Yes,1.99,No,Good
+1950,Male,10,1.74,78,66,High School,Satisfied,No,No,3.52,No,Excellent
+1951,Female,10,2.18,93,58,High School,Satisfied,No,Yes,4.22,No,Good
+1952,Male,12,3.33,97,67,Master's,Unsatisfied,No,Yes,1.25,Yes,Good
+1953,Male,11,1.92,82,92,High School,Satisfied,Yes,Yes,2.75,No,Excellent
+1954,Female,11,3.29,79,82,Bachelor's,Satisfied,No,Yes,2.98,No,Excellent
+1955,Male,9,1.35,91,81,Bachelor's,Unsatisfied,Yes,Yes,2.81,No,Good
+1956,Male,11,2.54,76,61,Bachelor's,Satisfied,Yes,No,4.29,No,Good
+1957,Female,10,3.8,97,65,Bachelor's,Satisfied,Yes,Yes,3.76,No,Average
+1958,Female,12,3.69,64,66,High School,Satisfied,Yes,Yes,3.17,No,Good
+1959,Male,12,2.95,75,60,Bachelor's,Satisfied,Yes,Yes,4.64,No,Excellent
+1960,Female,12,2,87,72,Bachelor's,Satisfied,Yes,Yes,6.58,No,Good
+1961,Female,12,0,63,65,Bachelor's,Neutral,Yes,Yes,6.46,Yes,Excellent
+1962,Male,11,3.69,57,67,PhD,Neutral,Yes,Yes,1.12,No,Good
+1963,Male,11,2.21,98,69,Master's,Satisfied,Yes,No,4.87,No,Excellent
+1964,Male,9,3.57,86,43,Master's,Satisfied,Yes,Yes,3.73,No,Good
+1965,Female,10,4.15,87,82,PhD,Satisfied,Yes,Yes,4.23,No,Poor
+1966,Female,10,8,64,100,Bachelor's,Neutral,No,Yes,3.4,No,Good
+1967,Female,10,2.57,87,74,Bachelor's,Satisfied,No,Yes,4.18,No,Average
+1968,Female,11,2.36,79,79,Bachelor's,Satisfied,No,Yes,4.23,No,Poor
+1969,Male,10,0.72,92,68,Bachelor's,Neutral,Yes,Yes,3.13,Yes,Excellent
+1970,Male,12,1.3,80,93,PhD,Unsatisfied,No,Yes,2.66,No,Average
+1971,Female,10,2.2,88,64,High School,Satisfied,Yes,Yes,3.33,No,Good
+1972,Male,10,4.14,91,100,Bachelor's,Satisfied,Yes,Yes,4.35,No,Average
+1973,Female,12,2.74,91,76,PhD,Very Satisfied,Yes,Yes,4.9,No,Average
+1974,Male,11,4.94,77,86,High School,Very Satisfied,No,Yes,5.28,No,Excellent
+1975,Female,11,2.71,84,76,Bachelor's,Satisfied,Yes,Yes,3.26,No,Average
+1976,Female,12,3.38,83,78,Bachelor's,Satisfied,Yes,Yes,4.43,No,Good
+1977,Male,11,5.37,94,88,Bachelor's,Very Satisfied,Yes,Yes,5.44,Yes,Good
+1978,Female,11,2.32,76,89,Master's,Satisfied,No,Yes,5.75,No,Good
+1979,Female,9,4.31,99,65,Bachelor's,Neutral,No,Yes,3.91,Yes,Excellent
+1980,Male,10,2.66,68,69,High School,Satisfied,Yes,Yes,3.67,No,Good
+1981,Male,10,4.49,80,84,High School,Satisfied,Yes,Yes,4.29,No,Good
+1982,Male,10,2.71,88,57,Bachelor's,Satisfied,Yes,Yes,2.28,No,Excellent
+1983,Male,12,3.13,55,72,Master's,Satisfied,No,Yes,3.71,Yes,Average
+1984,Male,12,0.55,97,86,High School,Unsatisfied,Yes,Yes,5.12,No,Good
+1985,Male,10,3.7,100,60,Master's,Unsatisfied,No,Yes,4.96,No,Excellent
+1986,Male,9,5.62,94,71,High School,Very Satisfied,Yes,No,3.59,Yes,Good
+1987,Female,9,4.7,73,62,PhD,Satisfied,No,Yes,4.33,No,Excellent
+1988,Female,9,2.09,79,59,High School,Satisfied,Yes,Yes,2.76,No,Good
+1989,Female,12,4.83,82,80,High School,Very Satisfied,Yes,Yes,5.06,No,Excellent
+1990,Male,10,2.14,66,79,Master's,Satisfied,Yes,No,3.88,No,Excellent
+1991,Male,11,0.13,84,54,PhD,Satisfied,Yes,Yes,3.59,Yes,Average
+1992,Male,10,5.98,94,76,Bachelor's,Neutral,Yes,Yes,3.46,No,Average
+1993,Male,10,4.9,76,83,Bachelor's,Very Satisfied,No,Yes,3.91,No,Good
+1994,Female,10,3.3,87,94,Master's,Neutral,Yes,Yes,3.33,No,Good
+1995,Male,9,4.1,87,50,High School,Satisfied,No,Yes,4.99,No,Average
+1996,Male,12,1.56,83,76,Bachelor's,Satisfied,No,Yes,3.41,No,Poor
+1997,Male,12,1.3,100,97,High School,Very Satisfied,Yes,Yes,6.39,No,Average
+1998,Female,11,3.9,85,71,Bachelor's,Satisfied,No,Yes,6.2,Yes,Excellent
+1999,Male,12,1.57,85,78,High School,Satisfied,No,Yes,2.66,No,Good
+2000,Male,9,1.14,88,72,Bachelor's,Very Satisfied,Yes,Yes,4.1,No,Good
+2001,Female,11,0.14,76,68,High School,Satisfied,No,Yes,3.02,No,Average
+2002,Male,9,5.83,90,54,Bachelor's,Satisfied,Yes,Yes,3.51,No,Average
+2003,Male,11,3.73,69,91,Bachelor's,Neutral,Yes,Yes,7,No,Average
+2004,Female,11,2.29,84,94,Bachelor's,Satisfied,No,Yes,3.54,No,Average
+2005,Female,11,1.07,71,66,PhD,Satisfied,Yes,No,4.54,No,Excellent
+2006,Male,12,4.56,69,32,Bachelor's,Satisfied,Yes,Yes,4.81,No,Excellent
+2007,Male,11,2.32,90,93,Bachelor's,Satisfied,Yes,Yes,2.5,No,Average
+2008,Female,11,2.31,80,92,Master's,Satisfied,No,Yes,2.72,Yes,Poor
+2009,Male,9,0.2,81,77,Master's,Satisfied,No,Yes,2.19,No,Average
+2010,Male,9,3.67,79,75,High School,Satisfied,Yes,Yes,2.67,No,Good
+2011,Female,9,0,78,81,High School,Very Satisfied,No,Yes,1,No,Average
+2012,Male,9,1.53,85,81,Master's,Satisfied,No,Yes,4.82,No,Average
+2013,Female,9,2.49,86,60,High School,Neutral,Yes,Yes,7.08,No,Average
+2014,Male,9,2.69,91,77,Master's,Very Satisfied,Yes,Yes,4.22,No,Good
+2015,Female,11,2.12,87,85,Master's,Satisfied,No,Yes,1.88,No,Good
+2016,Male,12,0,96,69,Bachelor's,Neutral,No,Yes,3.04,No,Good
+2017,Female,10,3.64,96,54,High School,Satisfied,No,Yes,3.31,No,Average
+2018,Male,10,1.94,82,63,Master's,Satisfied,Yes,Yes,2.47,Yes,Excellent
+2019,Male,10,5.6,76,66,High School,Neutral,Yes,Yes,5.29,Yes,Excellent
+2020,Female,11,3.31,72,69,Master's,Satisfied,Yes,Yes,5.22,No,Average
+2021,Male,9,3.48,81,73,Master's,Unsatisfied,Yes,Yes,2.27,No,Average
+2022,Male,11,2.21,69,79,Master's,Satisfied,Yes,Yes,5.09,No,Good
+2023,Female,11,5.63,85,78,PhD,Neutral,No,Yes,6.29,No,Poor
+2024,Male,12,4.04,72,100,PhD,Satisfied,Yes,Yes,6.85,No,Good
+2025,Female,10,3.3,100,64,Bachelor's,Neutral,No,Yes,8.3,Yes,Good
+2026,Male,11,5.73,92,83,Bachelor's,Neutral,Yes,Yes,2.65,No,Good
+2027,Female,11,3.35,82,93,Master's,Very Satisfied,Yes,Yes,8.24,No,Average
+2028,Female,10,3.21,65,58,Master's,Very Satisfied,Yes,Yes,3.47,Yes,Good
+2029,Female,12,2.72,88,74,PhD,Very Satisfied,Yes,Yes,3.11,No,Excellent
+2030,Female,9,4.83,65,77,Bachelor's,Satisfied,Yes,Yes,4.49,Yes,Average
+2031,Male,10,0.27,92,73,Master's,Satisfied,No,Yes,3.13,No,Good
+2032,Female,9,3.63,76,94,Master's,Neutral,No,Yes,4.6,No,Poor
+2033,Female,9,4.56,90,73,Bachelor's,Satisfied,Yes,Yes,2.02,Yes,Poor
+2034,Female,9,3.87,77,87,Bachelor's,Neutral,Yes,Yes,3.64,Yes,Good
+2035,Female,11,5.47,95,64,High School,Satisfied,No,Yes,5.93,Yes,Average
+2036,Male,10,3.54,72,83,Bachelor's,Neutral,Yes,Yes,3.91,Yes,Poor
+2037,Male,11,3.68,66,57,High School,Neutral,Yes,Yes,4.21,No,Average
+2038,Male,11,2.58,81,56,High School,Neutral,Yes,Yes,4.71,No,Good
+2039,Male,12,3.58,87,72,Master's,Satisfied,No,Yes,5.76,No,Good
+2040,Male,12,1.87,95,99,Bachelor's,Satisfied,Yes,Yes,1.52,No,Average
+2041,Female,12,2.27,78,82,High School,Satisfied,Yes,Yes,4.88,No,Good
+2042,Female,12,2.46,83,86,High School,Satisfied,No,Yes,3.6,No,Average
+2043,Male,12,0.14,98,76,Bachelor's,Satisfied,Yes,Yes,4.25,No,Good
+2044,Female,12,2.38,84,74,PhD,Satisfied,Yes,Yes,5.59,No,Good
+2045,Female,9,0.4,99,75,Master's,Satisfied,Yes,Yes,2.21,No,Good
+2046,Male,9,3.66,94,59,Master's,Satisfied,No,Yes,2.48,No,Excellent
+2047,Male,11,3.71,82,87,Bachelor's,Very Satisfied,Yes,Yes,1.1,No,Excellent
+2048,Male,11,0,84,65,High School,Satisfied,No,Yes,3.18,No,Poor
+2049,Female,11,3.65,89,64,High School,Satisfied,No,Yes,6,No,Excellent
+2050,Female,11,1.93,83,61,Bachelor's,Satisfied,Yes,Yes,3.82,No,Poor
+2051,Female,10,4.26,81,31,Bachelor's,Very Satisfied,No,No,1.99,No,Excellent
+2052,Male,9,2.44,74,50,Master's,Very Satisfied,Yes,Yes,3.27,No,Average
+2053,Female,12,1.14,86,94,High School,Very Satisfied,Yes,No,1.77,No,Average
+2054,Male,12,3.47,78,81,Master's,Neutral,Yes,No,2.31,No,Poor
+2055,Female,10,2.31,78,57,PhD,Very Satisfied,Yes,Yes,4.58,No,Average
+2056,Female,12,0.37,81,77,Bachelor's,Satisfied,Yes,Yes,2.24,Yes,Good
+2057,Male,12,2.86,80,60,High School,Neutral,Yes,Yes,5.67,No,Excellent
+2058,Male,11,3.91,71,86,Bachelor's,Satisfied,Yes,Yes,3.89,No,Good
+2059,Female,11,1.5,77,52,Bachelor's,Satisfied,No,Yes,4.13,Yes,Good
+2060,Female,11,2.25,94,82,High School,Neutral,Yes,No,3.58,No,Good
+2061,Male,10,4.47,90,58,PhD,Neutral,No,Yes,5.16,No,Average
+2062,Female,12,2.5,77,94,Master's,Satisfied,Yes,Yes,5.17,No,Poor
+2063,Male,12,1.2,93,88,Master's,Satisfied,Yes,Yes,4.5,Yes,Poor
+2064,Male,10,5.74,80,85,Master's,Very Satisfied,Yes,Yes,4.85,Yes,Average
+2065,Female,12,6.42,78,51,Master's,Unsatisfied,Yes,Yes,3.68,No,Average
+2066,Male,11,0.18,92,46,High School,Satisfied,Yes,Yes,4.81,No,Poor
+2067,Female,11,2.44,89,77,Master's,Satisfied,No,Yes,3.49,No,Average
+2068,Female,11,3.64,87,94,Master's,Satisfied,No,Yes,4,No,Average
+2069,Female,12,1.57,78,63,High School,Very Satisfied,No,Yes,3.59,No,Excellent
+2070,Male,10,4.25,94,81,Master's,Very Satisfied,Yes,Yes,3.31,No,Average
+2071,Male,10,4.78,73,100,High School,Neutral,No,Yes,2.97,No,Good
+2072,Male,12,5.28,92,100,Bachelor's,Unsatisfied,Yes,Yes,4.7,No,Good
+2073,Female,9,0.52,79,63,High School,Satisfied,Yes,Yes,5.97,No,Good
+2074,Male,12,4.08,74,86,Bachelor's,Neutral,No,Yes,5.76,No,Poor
+2075,Female,12,5.06,91,79,Master's,Neutral,No,Yes,2.12,No,Average
+2076,Male,9,1.52,76,93,High School,Satisfied,Yes,Yes,5.93,No,Poor
+2077,Female,12,4.17,84,68,Bachelor's,Very Satisfied,Yes,Yes,3.52,No,Average
+2078,Female,12,0,74,100,High School,Very Satisfied,Yes,Yes,4.9,No,Average
+2079,Male,12,1.08,86,90,Master's,Satisfied,No,Yes,2.64,No,Good
+2080,Female,11,1.12,86,89,PhD,Satisfied,Yes,Yes,4.21,Yes,Good
+2081,Male,9,3.02,100,49,Bachelor's,Satisfied,No,Yes,4.47,No,Good
+2082,Female,10,4.59,83,86,Bachelor's,Unsatisfied,Yes,Yes,1.77,Yes,Good
+2083,Male,11,3.66,77,78,Bachelor's,Satisfied,Yes,Yes,4.91,No,Average
+2084,Female,12,0.21,91,79,Bachelor's,Satisfied,Yes,No,6.02,No,Excellent
+2085,Female,10,3.96,95,80,Master's,Satisfied,Yes,Yes,3.74,Yes,Average
+2086,Male,12,3.22,76,64,PhD,Satisfied,Yes,Yes,6.04,No,Good
+2087,Male,10,4.78,99,71,Master's,Satisfied,No,Yes,3.72,No,Good
+2088,Female,10,3.07,75,92,Bachelor's,Satisfied,No,Yes,5.27,No,Good
+2089,Male,11,4,100,61,Bachelor's,Satisfied,No,Yes,1,No,Average
+2090,Female,12,2.43,87,84,High School,Unsatisfied,No,Yes,7.63,No,Good
+2091,Male,11,2.68,76,88,High School,Satisfied,No,Yes,6.24,Yes,Poor
+2092,Female,11,4.08,75,95,Master's,Satisfied,Yes,Yes,3.57,No,Poor
+2093,Female,9,4.76,86,76,High School,Very Satisfied,No,No,1.04,No,Average
+2094,Male,10,3.83,76,75,PhD,Neutral,Yes,Yes,4.43,No,Average
+2095,Male,12,0,93,51,Master's,Neutral,Yes,Yes,1.83,No,Good
+2096,Male,9,5.26,81,71,Bachelor's,Satisfied,Yes,Yes,4.67,No,Excellent
+2097,Female,12,2.06,82,96,PhD,Satisfied,Yes,Yes,4.62,Yes,Average
+2098,Male,11,0,97,80,High School,Satisfied,Yes,Yes,2.59,No,Excellent
+2099,Male,9,1.19,74,100,Bachelor's,Satisfied,No,Yes,5.68,No,Excellent
+2100,Female,10,1.58,73,92,High School,Very Satisfied,Yes,Yes,5.21,No,Excellent
+2101,Female,9,3.51,75,78,High School,Satisfied,Yes,Yes,5.46,No,Excellent
+2102,Male,12,1.46,96,90,Master's,Satisfied,Yes,Yes,4.01,No,Average
+2103,Male,10,3.8,88,100,Bachelor's,Satisfied,Yes,Yes,1.88,No,Poor
+2104,Male,12,3,73,81,Bachelor's,Very Satisfied,Yes,Yes,5.47,No,Good
+2105,Female,10,6.13,74,69,Master's,Unsatisfied,Yes,Yes,3.59,No,Good
+2106,Male,11,3.62,84,60,Bachelor's,Neutral,Yes,Yes,1.92,No,Excellent
+2107,Female,9,4.68,100,77,PhD,Neutral,Yes,Yes,6.03,No,Excellent
+2108,Male,10,1.64,69,78,Master's,Satisfied,No,Yes,7.15,No,Good
+2109,Male,11,4.66,89,74,Bachelor's,Satisfied,No,Yes,3.94,No,Average
+2110,Male,9,2.12,74,87,PhD,Satisfied,Yes,Yes,7.24,Yes,Average
+2111,Female,10,4.37,69,98,Bachelor's,Unsatisfied,Yes,Yes,4.14,Yes,Poor
+2112,Male,12,3.86,98,54,High School,Satisfied,Yes,Yes,3.43,No,Good
+2113,Male,9,0.95,83,82,Bachelor's,Neutral,No,Yes,3.05,Yes,Good
+2114,Male,10,5.69,92,71,Bachelor's,Satisfied,Yes,Yes,6.46,No,Excellent
+2115,Female,12,1.46,97,60,Master's,Unsatisfied,Yes,Yes,2.83,Yes,Good
+2116,Female,11,5.44,82,98,Master's,Neutral,No,Yes,5.1,No,Excellent
+2117,Male,12,4.02,83,67,Master's,Satisfied,Yes,Yes,3.16,No,Good
+2118,Female,10,2.49,89,76,Bachelor's,Satisfied,Yes,Yes,3.31,No,Excellent
+2119,Female,12,2.11,83,76,Bachelor's,Very Satisfied,Yes,Yes,5.55,No,Average
+2120,Male,9,0,89,60,Bachelor's,Satisfied,No,Yes,3.43,No,Excellent
+2121,Female,11,1.27,68,48,Bachelor's,Satisfied,No,Yes,3.39,No,Good
+2122,Female,10,0.97,77,100,PhD,Satisfied,No,Yes,5.7,Yes,Average
+2123,Female,10,2.21,86,81,Bachelor's,Unsatisfied,Yes,Yes,6.4,No,Average
+2124,Female,10,3.2,84,57,Bachelor's,Satisfied,Yes,Yes,4.97,No,Excellent
+2125,Male,11,5.18,100,49,Bachelor's,Satisfied,No,Yes,3.02,No,Poor
+2126,Male,9,1.46,82,60,Bachelor's,Unsatisfied,No,Yes,3.23,No,Good
+2127,Male,10,3.76,77,100,PhD,Neutral,Yes,Yes,4.12,Yes,Average
+2128,Female,10,4.79,87,90,High School,Satisfied,No,Yes,4.48,No,Good
+2129,Female,12,4.66,79,62,Bachelor's,Satisfied,Yes,Yes,2.52,No,Excellent
+2130,Female,9,3.12,93,77,Bachelor's,Satisfied,Yes,No,5.08,No,Average
+2131,Male,9,0.63,76,73,PhD,Neutral,No,Yes,4.13,Yes,Good
+2132,Female,9,2.89,100,54,Bachelor's,Satisfied,Yes,Yes,1.43,No,Excellent
+2133,Female,12,3.76,99,100,Master's,Satisfied,No,Yes,2.61,No,Good
+2134,Male,11,2.39,89,83,Bachelor's,Satisfied,Yes,Yes,3.24,No,Excellent
+2135,Female,9,3.29,84,81,PhD,Very Satisfied,Yes,Yes,3.89,No,Good
+2136,Male,9,0,91,76,Master's,Satisfied,No,Yes,6.83,No,Average
+2137,Male,10,2.67,100,64,Bachelor's,Neutral,No,Yes,4.36,Yes,Good
+2138,Male,12,2.4,100,62,Master's,Satisfied,Yes,Yes,2.74,No,Good
+2139,Female,12,2.17,83,87,Master's,Satisfied,Yes,No,4.33,Yes,Average
+2140,Male,10,3.31,72,67,Master's,Satisfied,No,Yes,3.47,Yes,Average
+2141,Female,10,2.09,84,81,Bachelor's,Satisfied,Yes,Yes,4.49,No,Poor
+2142,Female,11,3.63,67,90,Bachelor's,Very Satisfied,No,Yes,4.87,No,Good
+2143,Female,12,3.38,98,81,Master's,Satisfied,No,Yes,5.81,No,Excellent
+2144,Female,10,4.65,89,95,Bachelor's,Neutral,Yes,Yes,3.96,No,Poor
+2145,Female,11,3.78,84,100,PhD,Satisfied,Yes,Yes,6.46,No,Good
+2146,Female,9,4.33,90,55,Master's,Very Satisfied,Yes,Yes,5.36,No,Excellent
+2147,Male,10,1.07,87,77,PhD,Satisfied,No,No,2.94,No,Average
+2148,Female,10,2.08,86,98,High School,Satisfied,Yes,Yes,7.31,No,Good
+2149,Female,10,4.04,73,73,High School,Satisfied,Yes,Yes,4.49,No,Excellent
+2150,Male,10,1.79,81,68,Bachelor's,Very Satisfied,Yes,Yes,2.75,No,Excellent
+2151,Male,10,2.28,72,73,Bachelor's,Satisfied,Yes,Yes,6.48,No,Average
+2152,Female,10,2.16,55,100,Master's,Satisfied,Yes,Yes,7.12,No,Average
+2153,Female,10,4.63,81,75,Bachelor's,Very Satisfied,Yes,Yes,3.95,No,Average
+2154,Male,11,1.24,100,100,High School,Very Satisfied,No,Yes,3.24,No,Good
+2155,Female,9,3.24,95,77,Master's,Very Satisfied,No,Yes,3.74,No,Good
+2156,Female,11,0.99,80,76,PhD,Satisfied,No,Yes,5.07,Yes,Good
+2157,Male,10,2.32,82,73,Master's,Very Satisfied,Yes,Yes,5.92,Yes,Average
+2158,Male,12,2.88,85,59,High School,Satisfied,Yes,Yes,4.86,Yes,Average
+2159,Female,10,1.92,72,89,Bachelor's,Satisfied,No,Yes,4.15,No,Good
+2160,Male,9,0,96,95,Master's,Very Satisfied,Yes,Yes,6.25,Yes,Good
+2161,Female,9,2.55,58,69,High School,Neutral,No,Yes,3.53,No,Good
+2162,Female,10,2.9,74,67,High School,Unsatisfied,No,Yes,5.55,No,Good
+2163,Male,12,5.3,91,61,Bachelor's,Satisfied,Yes,Yes,3.57,No,Average
+2164,Female,10,0.6,81,71,Master's,Satisfied,No,Yes,4.65,No,Average
+2165,Male,12,3.74,79,82,Bachelor's,Satisfied,No,Yes,3.83,No,Average
+2166,Male,10,5.9,93,74,High School,Satisfied,Yes,Yes,3.92,No,Average
+2167,Female,9,2.73,81,92,High School,Satisfied,Yes,Yes,3.43,No,Poor
+2168,Female,11,2.06,85,75,High School,Satisfied,Yes,Yes,6.02,No,Average
+2169,Male,11,2.25,71,79,High School,Satisfied,Yes,Yes,2.9,No,Poor
+2170,Female,10,2.91,90,66,Bachelor's,Very Satisfied,Yes,Yes,2.89,No,Average
+2171,Male,10,4.83,76,100,Master's,Neutral,Yes,Yes,7.18,No,Good
+2172,Male,9,0.38,89,82,Master's,Neutral,No,Yes,5.47,Yes,Average
+2173,Male,11,1.81,89,94,High School,Satisfied,Yes,Yes,1,No,Good
+2174,Male,11,0,90,37,Bachelor's,Unsatisfied,Yes,Yes,3.15,No,Good
+2175,Male,10,1.55,100,66,High School,Satisfied,No,Yes,1.28,No,Good
+2176,Female,12,1.24,83,100,Master's,Very Satisfied,Yes,Yes,2.57,No,Excellent
+2177,Male,12,0.25,74,97,Bachelor's,Satisfied,No,Yes,1,No,Poor
+2178,Male,11,5.79,83,56,High School,Neutral,Yes,Yes,3.79,Yes,Good
+2179,Female,9,6.14,100,85,Bachelor's,Very Satisfied,Yes,Yes,2.29,Yes,Excellent
+2180,Male,12,1.78,84,72,Master's,Satisfied,Yes,Yes,4.09,Yes,Excellent
+2181,Female,9,3.5,99,88,High School,Very Satisfied,No,Yes,1.56,Yes,Average
+2182,Female,10,1.38,98,79,PhD,Satisfied,Yes,Yes,4.12,Yes,Average
+2183,Male,11,4.03,99,58,Bachelor's,Satisfied,No,Yes,3.38,No,Average
+2184,Male,10,2.95,79,51,High School,Very Satisfied,Yes,Yes,6.25,No,Good
+2185,Male,9,3.52,100,47,High School,Satisfied,Yes,Yes,6.12,No,Good
+2186,Female,12,2.95,91,76,Bachelor's,Neutral,Yes,Yes,5.18,No,Average
+2187,Female,11,2.83,72,78,Bachelor's,Satisfied,No,Yes,3.51,Yes,Good
+2188,Female,9,1.86,63,92,Master's,Very Satisfied,No,Yes,6.98,No,Good
+2189,Male,11,4.44,85,78,High School,Satisfied,Yes,No,1.67,No,Good
+2190,Female,10,4.61,87,88,High School,Satisfied,Yes,Yes,1.89,No,Excellent
+2191,Male,12,2.55,98,79,High School,Neutral,Yes,Yes,3.87,No,Good
+2192,Female,11,3.29,72,79,Bachelor's,Neutral,Yes,Yes,7.38,No,Poor
+2193,Male,10,1.75,78,62,PhD,Satisfied,Yes,Yes,3.7,No,Good
+2194,Male,12,1.4,100,94,PhD,Very Satisfied,No,Yes,3.73,No,Average
+2195,Male,10,5.88,72,76,Bachelor's,Satisfied,No,No,1.84,No,Good
+2196,Male,10,1.06,78,61,Bachelor's,Very Satisfied,Yes,Yes,5.42,No,Excellent
+2197,Male,11,4.86,81,91,PhD,Satisfied,Yes,Yes,5.43,No,Excellent
+2198,Female,11,3.91,100,52,Bachelor's,Very Satisfied,No,Yes,5.18,No,Good
+2199,Female,10,4.89,96,60,Master's,Neutral,No,Yes,3.06,No,Average
+2200,Male,9,4.51,88,71,Master's,Satisfied,Yes,Yes,2.94,No,Average
+2201,Female,10,1.76,77,100,Bachelor's,Neutral,Yes,Yes,2.06,No,Good
+2202,Male,11,3,92,63,High School,Satisfied,Yes,No,4.13,Yes,Average
+2203,Male,12,1.83,95,54,Master's,Satisfied,Yes,Yes,2.38,No,Good
+2204,Female,12,2.38,85,76,Bachelor's,Neutral,Yes,No,2.23,Yes,Poor
+2205,Male,9,2.73,88,85,Bachelor's,Very Satisfied,Yes,Yes,3.36,No,Average
+2206,Female,12,4.1,75,70,High School,Satisfied,No,Yes,3.27,No,Average
+2207,Male,10,4.79,93,54,High School,Very Satisfied,Yes,Yes,3.19,No,Excellent
+2208,Female,12,3.53,65,75,Master's,Very Satisfied,Yes,Yes,4.7,No,Good
+2209,Male,12,5.85,75,62,Bachelor's,Unsatisfied,Yes,Yes,4.12,Yes,Average
+2210,Female,11,4.15,69,65,Bachelor's,Very Satisfied,No,Yes,3.57,No,Poor
+2211,Male,9,3.89,78,71,Bachelor's,Very Satisfied,No,Yes,4.27,Yes,Good
+2212,Male,10,4.12,89,79,Bachelor's,Satisfied,Yes,Yes,2.51,No,Average
+2213,Male,12,2.49,88,73,Bachelor's,Satisfied,Yes,Yes,4.16,No,Good
+2214,Male,10,3.69,80,72,Bachelor's,Satisfied,No,No,4.23,No,Excellent
+2215,Female,11,1.52,84,62,Bachelor's,Satisfied,Yes,Yes,1.75,No,Good
+2216,Male,10,1.33,87,78,Bachelor's,Satisfied,Yes,Yes,5.49,Yes,Good
+2217,Male,9,4.17,80,81,High School,Satisfied,Yes,Yes,2.68,No,Good
+2218,Male,12,3.83,89,62,Bachelor's,Satisfied,Yes,Yes,4.14,Yes,Excellent
+2219,Male,12,3.22,88,75,Bachelor's,Satisfied,Yes,Yes,5.75,Yes,Excellent
+2220,Male,12,0,86,100,High School,Satisfied,No,Yes,5.39,Yes,Good
+2221,Male,9,2.46,77,80,High School,Satisfied,No,Yes,4.05,No,Average
+2222,Female,9,3.47,96,56,Bachelor's,Satisfied,Yes,Yes,3.46,No,Good
+2223,Male,12,4.1,90,72,Bachelor's,Unsatisfied,No,Yes,5.42,Yes,Average
+2224,Male,11,3.51,95,88,Bachelor's,Satisfied,Yes,Yes,5.01,Yes,Good
+2225,Male,10,1.29,93,74,PhD,Neutral,Yes,Yes,3.07,No,Good
+2226,Male,12,3.11,85,72,Bachelor's,Satisfied,Yes,Yes,2.81,No,Average
+2227,Female,11,4.79,84,58,Master's,Neutral,No,Yes,1,No,Average
+2228,Male,10,2.41,86,93,High School,Satisfied,Yes,Yes,4.23,No,Good
+2229,Male,12,3.9,76,100,Bachelor's,Satisfied,Yes,Yes,3.88,No,Excellent
+2230,Male,12,3.4,97,72,High School,Satisfied,No,No,5.7,No,Good
+2231,Female,12,3.8,93,93,Bachelor's,Unsatisfied,No,Yes,4.54,No,Good
+2232,Male,10,4.59,93,70,PhD,Neutral,No,Yes,6,No,Average
+2233,Male,9,2.14,88,88,High School,Unsatisfied,Yes,Yes,2.95,No,Good
+2234,Female,9,2.67,95,96,High School,Unsatisfied,Yes,Yes,5.71,No,Good
+2235,Female,11,1.63,76,72,PhD,Unsatisfied,Yes,Yes,3.21,No,Good
+2236,Female,10,3.46,79,95,High School,Neutral,Yes,Yes,5.17,No,Poor
+2237,Male,12,3.64,85,53,Master's,Satisfied,No,No,1.81,No,Good
+2238,Male,9,1.03,87,43,Master's,Satisfied,Yes,Yes,4.35,No,Average
+2239,Female,9,4.52,83,100,Master's,Very Satisfied,Yes,Yes,1.02,Yes,Average
+2240,Male,11,6.46,83,73,Bachelor's,Neutral,No,Yes,3.6,Yes,Excellent
+2241,Female,11,4.49,100,50,Bachelor's,Satisfied,Yes,Yes,4.66,No,Average
+2242,Male,9,0.32,78,83,High School,Satisfied,Yes,Yes,3.22,No,Average
+2243,Male,12,3.75,95,57,Master's,Satisfied,No,Yes,2.42,No,Good
+2244,Female,12,0,93,62,Master's,Satisfied,No,Yes,5.27,No,Excellent
+2245,Female,10,0,86,86,Master's,Satisfied,No,Yes,3.84,No,Good
+2246,Female,12,2.82,80,72,Master's,Very Satisfied,Yes,Yes,3.27,Yes,Good
+2247,Male,11,2.44,71,64,PhD,Unsatisfied,Yes,Yes,4.06,No,Excellent
+2248,Male,12,3.78,88,77,Master's,Neutral,No,Yes,7.96,No,Average
+2249,Male,12,1.51,83,42,Bachelor's,Satisfied,Yes,Yes,5.73,Yes,Average
+2250,Male,9,3.27,99,52,Master's,Satisfied,Yes,Yes,5.74,Yes,Average
+2251,Female,9,2.12,88,93,Bachelor's,Satisfied,No,Yes,4.65,Yes,Excellent
+2252,Female,9,2.33,78,45,High School,Satisfied,Yes,Yes,4.25,No,Poor
+2253,Female,9,3.16,100,79,Master's,Neutral,No,Yes,1,No,Average
+2254,Female,12,2.97,88,74,PhD,Satisfied,Yes,Yes,2.98,No,Good
+2255,Male,12,1.78,93,78,High School,Satisfied,Yes,Yes,3.28,No,Good
+2256,Female,12,3.03,75,94,Master's,Satisfied,Yes,Yes,1.19,Yes,Good
+2257,Male,11,4,79,90,Bachelor's,Satisfied,No,No,2.26,No,Good
+2258,Male,10,2.25,77,63,Bachelor's,Satisfied,Yes,Yes,1.03,No,Average
+2259,Female,9,0.34,89,47,PhD,Neutral,Yes,Yes,3.94,No,Good
+2260,Male,11,1.16,64,73,PhD,Satisfied,No,Yes,5.23,No,Good
+2261,Male,12,2.77,81,59,High School,Neutral,No,No,5.66,No,Excellent
+2262,Female,11,1.24,89,66,Master's,Neutral,No,Yes,4.62,No,Average
+2263,Male,12,3.47,76,77,PhD,Satisfied,Yes,No,2.55,No,Excellent
+2264,Female,10,4.95,90,68,Bachelor's,Neutral,Yes,No,1.1,No,Good
+2265,Female,9,3.39,82,75,Master's,Very Satisfied,No,Yes,1.36,No,Poor
+2266,Female,9,2.51,83,78,Master's,Very Satisfied,No,Yes,2.1,Yes,Good
+2267,Male,10,1.51,74,54,Bachelor's,Satisfied,Yes,No,2.67,No,Poor
+2268,Female,11,0.6,72,77,High School,Very Satisfied,Yes,Yes,3.76,No,Excellent
+2269,Male,10,1.66,90,75,Master's,Satisfied,No,Yes,2.48,No,Excellent
+2270,Male,9,0.05,91,87,Bachelor's,Unsatisfied,Yes,Yes,4.51,No,Average
+2271,Male,11,1.51,89,62,Bachelor's,Unsatisfied,No,Yes,3.65,No,Average
+2272,Female,9,3.15,72,48,Bachelor's,Satisfied,Yes,Yes,4.02,Yes,Average
+2273,Male,11,2.43,83,69,High School,Neutral,Yes,Yes,5.71,No,Average
+2274,Female,12,1.22,81,79,Master's,Neutral,No,Yes,2.23,No,Average
+2275,Male,11,2.93,86,64,High School,Very Satisfied,Yes,Yes,4.63,No,Average
+2276,Male,10,4.76,73,82,Bachelor's,Satisfied,Yes,Yes,3.98,Yes,Good
+2277,Female,10,4.77,89,71,PhD,Very Satisfied,Yes,Yes,3.5,Yes,Average
+2278,Male,10,2.21,95,53,High School,Satisfied,Yes,Yes,5.33,Yes,Excellent
+2279,Female,12,1.54,81,93,High School,Unsatisfied,No,Yes,5.32,No,Excellent
+2280,Male,9,3.57,75,70,Bachelor's,Unsatisfied,No,Yes,2.58,No,Good
+2281,Female,10,2.08,77,89,Master's,Very Satisfied,No,Yes,3.73,No,Excellent
+2282,Female,11,0.94,100,87,Bachelor's,Very Satisfied,Yes,No,4.42,No,Average
+2283,Male,12,4.64,80,72,Bachelor's,Unsatisfied,Yes,Yes,3.59,No,Poor
+2284,Female,9,0.85,79,82,Bachelor's,Satisfied,Yes,Yes,4.88,No,Good
+2285,Female,12,4.94,73,69,High School,Neutral,No,No,4.42,No,Good
+2286,Female,11,2.77,71,83,Bachelor's,Satisfied,No,No,6.75,No,Good
+2287,Female,11,1.91,83,68,Bachelor's,Unsatisfied,No,Yes,1.7,No,Excellent
+2288,Female,9,1.82,84,71,Bachelor's,Satisfied,Yes,Yes,3.82,No,Excellent
+2289,Male,11,2.44,77,79,Master's,Satisfied,Yes,Yes,2.64,No,Good
+2290,Male,9,5.48,86,89,Bachelor's,Satisfied,Yes,Yes,4.91,No,Good
+2291,Male,11,0.91,86,58,Bachelor's,Unsatisfied,Yes,Yes,1.57,No,Poor
+2292,Female,12,0.78,77,92,Bachelor's,Satisfied,Yes,Yes,4.52,No,Average
+2293,Male,10,4.43,87,52,PhD,Satisfied,No,Yes,3.05,Yes,Good
+2294,Female,10,2.71,88,77,Master's,Satisfied,Yes,Yes,2.9,Yes,Good
+2295,Female,11,0.23,76,74,Bachelor's,Neutral,Yes,Yes,1.83,No,Good
+2296,Male,12,3.8,63,72,High School,Satisfied,Yes,No,3.3,Yes,Average
+2297,Female,9,3.21,93,85,Master's,Neutral,No,Yes,5.63,No,Good
+2298,Female,9,3.87,77,46,Bachelor's,Satisfied,Yes,No,3.96,No,Average
+2299,Female,11,2.41,95,95,Bachelor's,Satisfied,No,No,4.94,No,Good
+2300,Male,10,4.07,89,80,Master's,Very Satisfied,No,Yes,6.5,No,Average
+2301,Male,10,2.17,83,100,Master's,Satisfied,Yes,Yes,4.4,No,Poor
+2302,Female,12,1.59,100,70,Master's,Satisfied,No,Yes,3.16,Yes,Average
+2303,Male,11,4.99,70,83,Bachelor's,Satisfied,Yes,Yes,4.7,Yes,Average
+2304,Female,12,1.89,70,78,Master's,Very Satisfied,Yes,Yes,3.18,No,Excellent
+2305,Male,9,4.51,76,52,Master's,Satisfied,No,Yes,3.24,No,Poor
+2306,Male,11,2.86,84,83,High School,Very Satisfied,No,No,1.72,No,Average
+2307,Male,9,4.42,84,100,Master's,Very Satisfied,Yes,Yes,5.39,Yes,Good
+2308,Female,9,3.34,81,50,PhD,Very Satisfied,Yes,Yes,3.42,No,Good
+2309,Male,12,2.61,81,89,Master's,Satisfied,Yes,Yes,4.27,No,Poor
+2310,Female,12,3.69,73,77,Bachelor's,Satisfied,Yes,Yes,2.45,Yes,Poor
+2311,Male,10,4.01,100,88,Bachelor's,Neutral,Yes,No,4.65,Yes,Excellent
+2312,Female,11,4.14,85,80,Master's,Neutral,Yes,Yes,2.86,No,Good
+2313,Male,10,4.87,71,69,High School,Satisfied,Yes,Yes,3.79,No,Average
+2314,Male,12,1.84,88,93,Master's,Very Satisfied,No,Yes,5.32,No,Good
+2315,Male,9,2.1,61,68,High School,Very Satisfied,Yes,Yes,5.19,No,Average
+2316,Female,12,4.37,90,81,Master's,Satisfied,Yes,Yes,3.97,No,Average
+2317,Female,12,2.58,72,82,Bachelor's,Neutral,Yes,Yes,1.35,No,Good
+2318,Female,9,1.75,100,83,Bachelor's,Very Satisfied,No,Yes,8.49,No,Excellent
+2319,Male,11,2.13,78,73,Bachelor's,Satisfied,Yes,No,6.62,No,Average
+2320,Female,9,2.64,96,77,PhD,Satisfied,Yes,No,5.08,Yes,Excellent
+2321,Female,9,1.9,100,75,Bachelor's,Very Satisfied,Yes,Yes,2.87,No,Average
+2322,Male,10,4.15,78,80,Master's,Satisfied,No,Yes,3.83,No,Average
+2323,Female,12,3.47,66,100,Bachelor's,Satisfied,Yes,Yes,3.18,No,Poor
+2324,Male,10,4.94,81,58,Bachelor's,Satisfied,No,Yes,5.9,No,Average
+2325,Male,11,3.52,85,80,Master's,Very Satisfied,No,Yes,4.39,No,Excellent
+2326,Male,12,3.29,90,96,Bachelor's,Very Satisfied,No,Yes,2.82,No,Good
+2327,Female,12,3.85,74,95,Bachelor's,Very Satisfied,No,Yes,3.29,No,Poor
+2328,Female,11,5.46,100,58,High School,Satisfied,Yes,Yes,5.68,No,Excellent
+2329,Female,11,3.36,64,83,High School,Satisfied,Yes,Yes,6.4,No,Excellent
+2330,Male,9,2.18,100,63,Master's,Neutral,No,Yes,6.29,No,Good
+2331,Male,11,0.47,80,45,Bachelor's,Neutral,Yes,Yes,5.14,No,Excellent
+2332,Male,11,4.13,64,75,Bachelor's,Satisfied,Yes,Yes,3.62,No,Average
+2333,Female,11,0,81,99,High School,Neutral,No,No,1,Yes,Excellent
+2334,Male,10,3.54,76,74,Master's,Satisfied,Yes,Yes,4.45,No,Good
+2335,Male,11,3.03,89,54,Master's,Neutral,Yes,Yes,4,No,Excellent
+2336,Male,9,3.89,57,65,Bachelor's,Unsatisfied,Yes,Yes,4.21,No,Good
+2337,Male,10,2.27,91,75,Master's,Satisfied,Yes,Yes,4.08,Yes,Average
+2338,Female,12,0.89,75,77,High School,Satisfied,No,Yes,2.01,Yes,Good
+2339,Male,10,2.88,79,67,Bachelor's,Very Satisfied,Yes,Yes,4.84,No,Average
+2340,Male,11,4.04,79,73,Master's,Neutral,Yes,Yes,4.95,No,Average
+2341,Male,12,6.25,70,47,Bachelor's,Satisfied,Yes,Yes,5.02,No,Average
+2342,Male,12,4.18,78,70,Master's,Satisfied,No,Yes,5.42,No,Excellent
+2343,Female,10,1.83,82,98,Bachelor's,Satisfied,No,Yes,4.91,Yes,Average
+2344,Female,12,4.2,93,53,Bachelor's,Satisfied,Yes,Yes,3.38,Yes,Good
+2345,Male,9,1.27,56,62,PhD,Satisfied,No,Yes,3.89,No,Average
+2346,Female,11,4.44,90,71,Bachelor's,Neutral,Yes,Yes,4.14,Yes,Excellent
+2347,Male,11,2.97,78,78,Master's,Satisfied,No,Yes,4.16,No,Average
+2348,Male,10,4.15,68,79,Bachelor's,Satisfied,Yes,Yes,5.5,No,Good
+2349,Male,11,4.4,80,85,Bachelor's,Satisfied,No,Yes,4.97,Yes,Excellent
+2350,Male,9,7.22,83,80,Bachelor's,Satisfied,Yes,Yes,7.12,No,Good
+2351,Female,11,1.89,86,81,High School,Neutral,Yes,Yes,7.31,Yes,Average
+2352,Male,9,3.29,74,78,High School,Unsatisfied,Yes,Yes,4.12,Yes,Good
+2353,Male,9,5.19,89,89,Master's,Neutral,No,No,1,No,Excellent
+2354,Male,12,2.64,92,79,Master's,Very Satisfied,Yes,Yes,5.86,No,Good
+2355,Male,9,1.57,88,60,Master's,Neutral,No,Yes,3.19,No,Average
+2356,Female,9,2.05,86,79,Master's,Very Satisfied,Yes,Yes,2.8,No,Excellent
+2357,Female,12,1.22,95,83,Master's,Satisfied,Yes,Yes,3.4,No,Average
+2358,Female,11,1.94,69,72,High School,Unsatisfied,Yes,Yes,3.33,No,Good
+2359,Male,12,2.33,86,69,Bachelor's,Very Satisfied,No,Yes,4.92,No,Excellent
+2360,Female,11,0,81,70,High School,Unsatisfied,Yes,Yes,1.66,No,Average
+2361,Male,12,3.95,78,100,High School,Satisfied,No,Yes,2.38,No,Good
+2362,Male,12,0.13,98,71,High School,Satisfied,No,Yes,4.51,Yes,Good
+2363,Female,11,4.29,85,92,High School,Unsatisfied,No,Yes,4.93,Yes,Excellent
+2364,Female,12,2.42,74,96,High School,Satisfied,Yes,Yes,4.96,No,Average
+2365,Male,9,2.83,87,93,Master's,Neutral,No,Yes,2.82,No,Good
+2366,Female,12,1.45,90,66,Bachelor's,Satisfied,No,Yes,2.53,No,Excellent
+2367,Female,12,2.8,85,52,Bachelor's,Very Satisfied,Yes,Yes,3.24,No,Poor
+2368,Male,10,1.83,98,88,High School,Very Satisfied,No,Yes,4.36,No,Average
+2369,Female,9,2.91,87,70,Bachelor's,Very Satisfied,Yes,No,6.23,No,Excellent
+2370,Female,11,5.03,82,78,Master's,Satisfied,Yes,Yes,1,No,Average
+2371,Male,11,4.72,77,98,Bachelor's,Very Satisfied,Yes,Yes,3.67,No,Excellent
+2372,Male,12,0.7,100,69,Master's,Neutral,Yes,Yes,2,No,Average
+2373,Male,10,2.64,66,68,Bachelor's,Very Satisfied,Yes,Yes,1.52,No,Average
+2374,Male,11,1.44,78,72,Master's,Very Satisfied,Yes,Yes,5.45,Yes,Good
+2375,Female,12,4.44,87,79,High School,Satisfied,No,Yes,4.82,No,Good
+2376,Male,10,1.36,76,100,High School,Unsatisfied,Yes,Yes,4.67,No,Good
+2377,Male,12,1.9,100,71,Bachelor's,Satisfied,Yes,Yes,5.38,No,Good
+2378,Female,12,3,95,94,Bachelor's,Very Satisfied,Yes,Yes,3.28,Yes,Excellent
+2379,Female,9,2.83,81,74,High School,Unsatisfied,Yes,Yes,3.35,No,Average
+2380,Male,12,3.51,93,75,High School,Very Satisfied,No,Yes,7.28,No,Good
+2381,Female,10,3.93,100,80,Master's,Neutral,Yes,Yes,3.63,Yes,Average
+2382,Male,9,3.47,69,35,Master's,Satisfied,No,Yes,5.1,No,Good
+2383,Male,12,3.58,84,67,PhD,Satisfied,Yes,Yes,4.01,No,Average
+2384,Male,10,3.37,84,91,High School,Satisfied,No,Yes,1.23,No,Average
+2385,Female,9,3.13,77,89,Bachelor's,Neutral,Yes,Yes,1,Yes,Good
+2386,Male,9,2.67,90,67,High School,Satisfied,Yes,Yes,3.13,No,Poor
+2387,Male,9,2.03,85,75,Master's,Satisfied,No,Yes,5.58,No,Poor
+2388,Female,11,3.72,82,47,High School,Satisfied,Yes,Yes,5.18,No,Good
+2389,Male,11,2.35,92,70,Master's,Satisfied,No,Yes,5.37,No,Good
+2390,Male,10,2.63,94,64,Bachelor's,Neutral,No,Yes,2.52,No,Excellent
+2391,Male,12,0.69,83,67,High School,Satisfied,Yes,Yes,6.42,Yes,Good
+2392,Male,12,1.55,83,82,High School,Satisfied,Yes,Yes,2.55,Yes,Poor
+2393,Male,9,2.99,88,100,Master's,Satisfied,Yes,Yes,4.32,No,Good
+2394,Female,10,2.49,87,67,High School,Satisfied,No,Yes,3.98,Yes,Poor
+2395,Male,9,1.73,79,67,High School,Unsatisfied,No,Yes,3.74,No,Good
+2396,Female,12,3.54,100,64,Master's,Satisfied,Yes,No,6.01,No,Excellent
+2397,Female,10,2.38,84,80,High School,Satisfied,Yes,Yes,2.94,No,Good
+2398,Female,12,3.4,97,38,High School,Neutral,Yes,Yes,1.98,Yes,Good
+2399,Male,10,0,80,91,Master's,Satisfied,No,Yes,4.03,No,Average
+2400,Male,11,0.65,54,83,Bachelor's,Unsatisfied,Yes,Yes,3.4,No,Good
+2401,Male,10,3.37,74,60,High School,Satisfied,Yes,Yes,9.07,Yes,Excellent
+2402,Male,11,1.55,86,65,PhD,Very Satisfied,No,Yes,5.01,Yes,Average
+2403,Male,12,3.74,56,62,Master's,Satisfied,Yes,Yes,3.39,No,Average
+2404,Female,9,1.31,82,66,High School,Satisfied,Yes,Yes,2.42,Yes,Good
+2405,Female,12,4.2,66,75,High School,Satisfied,No,Yes,1.18,No,Good
+2406,Male,9,3.84,100,67,Master's,Neutral,No,Yes,2.46,Yes,Average
+2407,Female,11,3.49,66,39,Bachelor's,Very Satisfied,Yes,Yes,4.17,No,Excellent
+2408,Female,9,4.27,84,92,High School,Unsatisfied,Yes,Yes,6.14,No,Poor
+2409,Male,10,0.94,90,100,Master's,Satisfied,Yes,Yes,5.68,No,Average
+2410,Male,9,3.63,87,75,PhD,Satisfied,Yes,Yes,4.34,No,Good
+2411,Female,12,0.64,98,65,High School,Satisfied,No,Yes,3.52,No,Average
+2412,Female,10,3.76,69,57,Master's,Satisfied,Yes,Yes,4.4,Yes,Good
+2413,Male,10,5.15,81,96,Master's,Very Satisfied,No,Yes,3.22,No,Average
+2414,Female,10,2.88,66,88,High School,Satisfied,No,No,6.58,No,Poor
+2415,Male,12,2.12,91,75,High School,Very Satisfied,Yes,No,3.72,No,Average
+2416,Female,10,0.69,86,100,Bachelor's,Neutral,Yes,Yes,3.87,No,Excellent
+2417,Male,11,3.74,84,91,PhD,Neutral,Yes,Yes,1,No,Good
+2418,Male,9,3.32,87,58,Master's,Unsatisfied,No,No,3.71,No,Good
+2419,Male,9,3.35,95,62,PhD,Satisfied,No,No,5.25,No,Average
+2420,Male,11,5.14,84,61,High School,Neutral,Yes,Yes,2.4,No,Good
+2421,Male,10,4.5,82,86,Bachelor's,Satisfied,No,Yes,2.87,No,Good
+2422,Male,9,2.56,84,82,Bachelor's,Satisfied,Yes,Yes,5.19,No,Excellent
+2423,Male,12,3.44,65,58,Master's,Neutral,No,No,1.79,No,Good
+2424,Female,10,4.39,83,67,High School,Satisfied,Yes,Yes,5.59,No,Good
+2425,Male,10,0.96,74,44,PhD,Very Satisfied,Yes,Yes,3.2,No,Poor
+2426,Female,9,2.85,79,60,High School,Satisfied,No,Yes,3.42,No,Good
+2427,Male,12,2.9,88,100,Bachelor's,Satisfied,Yes,Yes,2.31,Yes,Good
+2428,Male,12,0.73,96,89,Bachelor's,Unsatisfied,Yes,Yes,4.57,No,Excellent
+2429,Male,12,1.83,87,68,PhD,Neutral,Yes,Yes,7.69,Yes,Average
+2430,Female,10,3.28,100,84,Master's,Unsatisfied,Yes,Yes,5.17,Yes,Average
+2431,Female,11,3.76,80,52,High School,Satisfied,Yes,Yes,2.7,No,Good
+2432,Male,12,2.69,97,52,Bachelor's,Neutral,No,Yes,5.7,No,Average
+2433,Female,10,1.42,86,60,Master's,Satisfied,Yes,Yes,3.52,No,Average
+2434,Female,9,1.81,80,54,PhD,Unsatisfied,Yes,Yes,6.06,No,Excellent
+2435,Female,9,1.54,92,55,Bachelor's,Satisfied,No,Yes,5.21,No,Good
+2436,Male,9,0.6,78,85,Master's,Satisfied,Yes,Yes,1,Yes,Excellent
+2437,Male,11,2.7,80,75,PhD,Neutral,Yes,Yes,2.49,No,Excellent
+2438,Female,12,0.38,89,80,Master's,Satisfied,No,Yes,5.42,No,Average
+2439,Male,9,2.39,95,58,Bachelor's,Satisfied,No,Yes,4.23,No,Good
+2440,Male,11,4.69,86,69,High School,Neutral,No,Yes,2.46,No,Poor
+2441,Female,10,2.97,83,93,Master's,Satisfied,No,Yes,3.05,No,Excellent
+2442,Female,11,1.38,77,90,PhD,Satisfied,Yes,Yes,1.14,No,Good
+2443,Female,11,2.11,94,100,High School,Satisfied,No,Yes,3.87,No,Average
+2444,Female,12,2.4,91,57,Bachelor's,Very Satisfied,Yes,Yes,7.32,No,Average
+2445,Female,11,4.13,86,82,Bachelor's,Satisfied,No,Yes,5.21,No,Good
+2446,Male,10,2.03,68,82,PhD,Satisfied,Yes,Yes,7.29,No,Average
+2447,Male,12,0,81,89,PhD,Neutral,No,Yes,5.32,No,Average
+2448,Male,9,3.29,100,90,High School,Neutral,No,Yes,5.54,No,Good
+2449,Male,12,2.02,85,74,High School,Neutral,No,Yes,6.96,No,Excellent
+2450,Male,11,0.63,75,66,Bachelor's,Satisfied,Yes,Yes,4.57,No,Average
+2451,Male,12,0,85,71,Bachelor's,Satisfied,Yes,Yes,3.72,No,Good
+2452,Male,11,0.49,89,85,High School,Unsatisfied,No,Yes,5.55,No,Excellent
+2453,Male,11,3.34,81,83,Bachelor's,Satisfied,No,Yes,6.18,No,Poor
+2454,Female,12,4.02,88,62,Bachelor's,Satisfied,Yes,Yes,3.28,No,Excellent
+2455,Female,12,3.41,96,66,Bachelor's,Neutral,No,Yes,2.92,No,Average
+2456,Female,10,6.15,79,75,Master's,Neutral,No,Yes,4.21,Yes,Good
+2457,Female,11,1.99,87,48,Master's,Unsatisfied,Yes,Yes,5.25,No,Good
+2458,Female,11,2.18,74,77,Bachelor's,Neutral,No,Yes,5.2,No,Good
+2459,Male,11,4.49,91,39,High School,Neutral,Yes,Yes,1.86,No,Excellent
+2460,Male,10,6.06,87,63,High School,Unsatisfied,Yes,Yes,6.87,Yes,Average
+2461,Female,10,3.24,86,64,Bachelor's,Satisfied,Yes,Yes,3.04,No,Average
+2462,Male,9,3.3,78,68,Master's,Very Satisfied,Yes,Yes,3.6,No,Good
+2463,Male,11,1.97,70,77,Bachelor's,Very Satisfied,No,Yes,2.65,No,Excellent
+2464,Female,9,3.88,90,87,PhD,Satisfied,Yes,Yes,8.05,No,Average
+2465,Female,10,3.49,79,87,PhD,Very Satisfied,No,Yes,4.36,No,Excellent
+2466,Male,9,0.96,75,60,PhD,Satisfied,No,Yes,2.72,No,Average
+2467,Female,11,4.62,94,82,Bachelor's,Neutral,No,Yes,5.3,No,Average
+2468,Male,12,4.61,76,80,Bachelor's,Neutral,Yes,Yes,5.15,No,Good
+2469,Female,9,2.81,93,73,High School,Satisfied,No,Yes,3.72,Yes,Poor
+2470,Female,9,2.42,90,88,Bachelor's,Very Satisfied,Yes,Yes,5.26,No,Good
+2471,Female,11,2,84,59,High School,Unsatisfied,Yes,Yes,2.76,No,Poor
+2472,Male,10,0,87,84,Master's,Satisfied,Yes,Yes,3.26,No,Average
+2473,Male,9,3.39,65,69,High School,Very Satisfied,Yes,No,1,No,Good
+2474,Male,12,0,98,58,High School,Satisfied,No,Yes,2.01,No,Good
+2475,Male,11,4.88,94,61,Bachelor's,Satisfied,Yes,Yes,6.71,No,Good
+2476,Female,11,1.3,88,62,Bachelor's,Unsatisfied,No,Yes,6.46,No,Good
+2477,Female,11,3.15,80,48,Bachelor's,Satisfied,Yes,Yes,4.1,No,Average
+2478,Male,10,0,87,66,Master's,Satisfied,Yes,Yes,6.49,No,Good
+2479,Female,12,2.17,91,92,Bachelor's,Very Satisfied,No,Yes,3.76,No,Excellent
+2480,Female,12,2.59,81,82,High School,Satisfied,No,Yes,3.63,No,Excellent
+2481,Male,10,0.96,87,83,High School,Satisfied,Yes,Yes,4.08,No,Average
+2482,Female,9,4.02,65,63,PhD,Satisfied,Yes,Yes,3.81,No,Poor
+2483,Female,9,1.68,85,82,High School,Satisfied,Yes,Yes,3.68,Yes,Excellent
+2484,Female,12,5.25,80,67,High School,Satisfied,Yes,Yes,5.72,No,Good
+2485,Male,10,4.72,87,94,High School,Satisfied,No,Yes,4.23,No,Good
+2486,Female,9,3.43,73,55,Master's,Satisfied,No,Yes,5.07,No,Good
+2487,Female,12,0.67,91,92,Bachelor's,Satisfied,Yes,Yes,5.55,Yes,Average
+2488,Male,9,5.77,93,92,High School,Satisfied,No,Yes,4.58,No,Good
+2489,Female,9,2.13,73,87,Master's,Very Satisfied,Yes,Yes,2.54,Yes,Excellent
+2490,Female,10,3.63,86,80,Bachelor's,Satisfied,Yes,Yes,1.97,No,Good
+2491,Male,9,3.48,97,94,High School,Neutral,Yes,Yes,4.22,No,Average
+2492,Male,11,3.82,93,82,Bachelor's,Satisfied,No,Yes,3.74,No,Average
+2493,Female,12,2.31,92,54,PhD,Very Satisfied,Yes,Yes,4.13,Yes,Average
+2494,Female,9,4.58,73,79,Master's,Neutral,Yes,Yes,3.98,No,Good
+2495,Male,10,1.73,90,74,Bachelor's,Very Satisfied,Yes,Yes,7.88,Yes,Average
+2496,Male,11,0.61,89,66,High School,Neutral,Yes,Yes,2,No,Poor
+2497,Female,11,4.32,85,80,High School,Neutral,No,Yes,1.02,No,Excellent
+2498,Male,10,1.56,79,68,Master's,Neutral,Yes,Yes,4.5,No,Average
+2499,Male,10,4.29,100,62,Bachelor's,Very Satisfied,Yes,No,3.44,No,Poor
+2500,Female,11,4.62,63,57,Master's,Satisfied,No,Yes,4.47,No,Average
