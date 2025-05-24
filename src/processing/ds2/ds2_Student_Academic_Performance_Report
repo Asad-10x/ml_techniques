@@ -1,0 +1,29 @@
+# Student Academic Performance - Report
+
+##  Perform What ?:
+  - Collected data of students, including demographics, academic habits, and lifestyle.
+  - Analyzed how study hours, attendance, and internet access affect exam performance.
+  - Explored patterns and relationships using statistical summaries.
+    
+## Happened What?:
+  - Students with high attendance and more study hours had better exam scores.
+  - Students with no internet access at home often had lower performance.
+  - Participation in extracurricular activities had no clear effect overall.
+  - Healthier students tended to perform slightly better academically.
+
+##  What's In the Data?
+  - Study Hours and Attendance are key to better scores.
+  - Parent_Education shows influence — students with more educated parents perform better.
+  - Daily_Screen_Time above 6 hours usually links with lower scores.
+
+##  What Can I Do?
+- Train a machine learning model to predict student scores.
+- Identify students at risk of poor performance early.
+- Recommend better time management and health habits.
+
+##  Future Suggestion?
+- Add more psychological and emotional health indicators.
+- Track long-term academic trends over the years.
+- Include teacher and school-related factors too.
+
+
