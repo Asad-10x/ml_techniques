@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ML Techniques</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 py-10">
+    <div class="max-w-3xl mx-auto bg-white p-8 shadow-lg rounded-lg">
+        <h2 class="text-2xl font-bold mb-6 text-center text-gray-800">Enter Feature Values</h2>
+        <form id="predictForm" class="space-y-4">
+
+            <!-- Age -->
+            <div>
+                <label for="age" class="block text-gray-700">Age:</label>
+                <input type="number" name="age" id="age" class="w-full border p-2 rounded" required>
+            </div>
+
+            <!-- Educational Number -->
+            <div>
+                <label for="educational_num" class="block text-gray-700">Educational Number:</label>
+                <select name="educational_num" id="educational_num" class="w-full border p-2 rounded" required>
+                    <option value="">-- Select Education --</option>
+                    <!-- 1-16 options unchanged -->
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                    <option value="7">7</option>
+                    <option value="8">8</option>
+                    <option value="9">9</option>
+                    <option value="10">10</option>
+                    <option value="11">11</option>
+                    <option value="12">12</option>
+                    <option value="13">13</option>
+                    <option value="14">14</option>
+                    <option value="15">15</option>
+                    <option value="16">16</option>
+                </select>
+            </div>
+
+            <!-- Hours per Week -->
+            <div>
+                <label for="hours-per-week" class="block text-gray-700">Hours per Week:</label>
+                <input type="number" name="hours-per-week" id="hours-per-week" class="w-full border p-2 rounded" required>
+            </div>
+
+            <!-- Capital Gain & Loss -->
+            <div>
+                <label for="capital-gain" class="block text-gray-700">Capital Gain:</label>
+                <input type="number" name="capital-gain" id="capital-gain" class="w-full border p-2 rounded" required>
+                <label for="capital-loss" class="block text-gray-700">Capital Loss:</label>
+                <!-- Use readonly if you want to display the value but not allow editing, and still submit value -->
+                <input type="number" name="capital-loss" id="capital-loss" class="w-full border p-2 rounded" required readonly>
+            </div>
+
+            <!-- Gender -->
+            <div>
+                <label for="gender" class="block text-gray-700">Gender:</label>
+                <select name="gender" id="gender" class="w-full border p-2 rounded" required>
+                    <option value="">-- Select Gender --</option>
+                    <option value="Male">Male</option>
+                    <option value="Female">Female</option>
+                </select>
+            </div>
+
+            <!-- Marital Status -->
+            <div>
+                <label for="marital_status" class="block text-gray-700 mb-1">Marital Status:</label>
+                <select name="marital_status" id="marital_status" class="w-full border p-2 rounded" required>
+                    <option value="">-- Select Marital Status --</option>
+                    <option value="marital-status_Married-AF-spouse">Married-AF-spouse</option>
+                    <option value="marital-status_Married-civ-spouse">Married-civ-spouse</option>
+                    <option value="marital-status_Married-spouse-absent">Married-spouse-absent</option>
+                    <option value="marital-status_Never-married">Never-married</option>
+                    <option value="marital-status_Separated">Separated</option>
+                    <option value="marital-status_Widowed">Widowed</option>
+                </select>
+            </div>
+            <!-- Relationship Type -->
+            <div>
+                <label for="relationship_type" class="block text-gray-700 mb-1">Relationship Type:</label>
+                <select name="relationship_type" id="relationship_type" class="w-full border p-2 rounded" required>
+                    <option value="">-- Select Relationship Type --</option>
+                    <option value="relationship_Not-in-family">Not-in-family</option>
+                    <option value="relationship_Other-relative">Other-relative</option>
+                    <option value="relationship_Own-child">Own-child</option>
+                    <option value="relationship_Unmarried">Unmarried</option>
+                    <option value="relationship_Wife">Wife</option>
+                </select>
+            </div>
+            <!-- Occupation Type -->
+            <div>
+                <label for="occupation_type" class="block text-gray-700 mb-1">Occupation Type:</label>
+                <select name="occupation_type" id="occupation_type" class="w-full border p-2 rounded" required>
+                    <option value="">-- Select Occupation Type --</option>
+                    <option value="occupation_Armed-Forces">Armed-Forces</option>
+                    <option value="occupation_Craft-repair">Craft-repair</option>
+                    <option value="occupation_Exec-managerial">Exec-managerial</option>
+                    <option value="occupation_Farming-fishing">Farming-fishing</option>
+                    <option value="occupation_Handlers-cleaners">Handlers-cleaners</option>
+                    <option value="occupation_Machine-op-inspct">Machine-op-inspct</option>
+                    <option value="occupation_Other-service">Other-service</option>
+                    <option value="occupation_Priv-house-serv">Priv-house-serv</option>
+                    <option value="occupation_Prof-specialty">Prof-specialty</option>
+                    <option value="occupation_Protective-serv">Protective-serv</option>
+                    <option value="occupation_Sales">Sales</option>
+                    <option value="occupation_Tech-support">Tech-support</option>
+                    <option value="occupation_Transport-moving">Transport-moving</option>
+                </select>
+            </div>
+            <!-- Workclass -->
+            <div>
+                <label for="workclass" class="block text-gray-700 mb-1">Workclass:</label>
+                <select name="workclass" id="workclass" class="w-full border p-2 rounded" required>
+                    <option value="">-- Select Workclass --</option>
+                    <option value="workclass_Federal-gov">Federal-gov</option>
+                    <option value="workclass_Local-gov">Local-gov</option>
+                    <option value="workclass_Never-worked">Never-worked</option>
+                    <option value="workclass_Private">Private</option>
+                    <option value="workclass_Self-emp-inc">Self-emp-inc</option>
+                    <option value="workclass_Self-emp-not-inc">Self-emp-not-inc</option>
+                    <option value="workclass_State-gov">State-gov</option>
+                    <option value="workclass_Without-pay">Without-pay</option>
+                </select>
+            </div>
+            <!-- Race -->
+            <div>
+                <label for="race" class="block text-gray-700 mb-1">Race:</label>
+                <select name="race" id="race" class="w-full border p-2 rounded" required>
+                    <option value="">-- Select Race --</option>
+                    <option value="race_Asian-Pac-Islander">Asian-Pac-Islander</option>
+                    <option value="race_Black">Black</option>
+                    <option value="race_Other">Other</option>
+                    <option value="race_White">White</option>
+                </select>
+            </div>
+            <!-- Native Country -->
+            <div>
+                <label for="native_country" class="block text-gray-700 mb-1">Native Country:</label>
+                <select name="native_country" id="native_country" class="w-full border p-2 rounded" required>
+                    <option value="">-- Select Native Country --</option>
+                    <!-- ... options unchanged ... -->
+                    <option value="native-country_Cambodia">Cambodia</option>
+                    <option value="native-country_Canada">Canada</option>
+                    <option value="native-country_China">China</option>
+                    <option value="native-country_Columbia">Columbia</option>
+                    <option value="native-country_Cuba">Cuba</option>
+                    <option value="native-country_Dominican-Republic">Dominican-Republic</option>
+                    <option value="native-country_Ecuador">Ecuador</option>
+                    <option value="native-country_El-Salvador">El-Salvador</option>
+                    <option value="native-country_England">England</option>
+                    <option value="native-country_France">France</option>
+                    <option value="native-country_Germany">Germany</option>
+                    <option value="native-country_Greece">Greece</option>
+                    <option value="native-country_Guatemala">Guatemala</option>
+                    <option value="native-country_Haiti">Haiti</option>
+                    <option value="native-country_Honduras">Honduras</option>
+                    <option value="native-country_Hong">Hong</option>
+                    <option value="native-country_Hungary">Hungary</option>
+                    <option value="native-country_India">India</option>
+                    <option value="native-country_Iran">Iran</option>
+                    <option value="native-country_Ireland">Ireland</option>
+                    <option value="native-country_Italy">Italy</option>
+                    <option value="native-country_Jamaica">Jamaica</option>
+                    <option value="native-country_Japan">Japan</option>
+                    <option value="native-country_Laos">Laos</option>
+                    <option value="native-country_Mexico">Mexico</option>
+                    <option value="native-country_Nicaragua">Nicaragua</option>
+                    <option value="native-country_Outlying-US(Guam-USVI-etc)">Outlying-US</option>
+                    <option value="native-country_Peru">Peru</option>
+                    <option value="native-country_Philippines">Philippines</option>
+                    <option value="native-country_Poland">Poland</option>
+                    <option value="native-country_Portugal">Portugal</option>
+                    <option value="native-country_Puerto-Rico">Puerto-Rico</option>
+                    <option value="native-country_Scotland">Scotland</option>
+                    <option value="native-country_South">South</option>
+                    <option value="native-country_Taiwan">Taiwan</option>
+                    <option value="native-country_Thailand">Thailand</option>
+                    <option value="native-country_Trinadad&Tobago">Trinadad&Tobago</option>
+                    <option value="native-country_United-States">United-States</option>
+                    <option value="native-country_Vietnam">Vietnam</option>
+                    <option value="native-country_Yugoslavia">Yugoslavia</option>
+                </select>
+            </div>
+
+            <!-- Submit -->
+            <div class="text-center mt-6">
+                <button type="submit" onclick="predict()" class="bg-blue-600 text-white px-6 py-2 rounded hover:bg-blue-700">Predict</button>
+            </div>
+            <p id="result"></p>
+        </form>
+    </div>
+    <script>
+        // Form submission
+        document
+        .getElementById("predictForm")
+        .addEventListener("predict", async function (e) {
+            e.preventDefault();
+
+            const formData = new FormData(e.target);
+            const jsonData = {};
+            console.log(formData);
+            formData.forEach((value, key) => {
+            // Convert numeric fields properly
+            if (!isNaN(value)) {
+                jsonData[key] = Number(value);
+            } else {
+                jsonData[key] = value;
+            }
+            });
+
+            // Validation check (you can improve with custom logic)
+            if (
+            jsonData["age"] <= 0 ||
+            jsonData["educational-num"] <= 0 ||
+            jsonData["hours-per-week"] <= 0 ||
+            jsonData["capital-gain"] < 0 ||
+            jsonData["capital-loss"] < 0
+            ) {
+            alert("Please enter valid positive values for numeric fields.");
+            return;
+            }
+            try {
+            const response = await fetch("/predict", {
+                method: "POST",
+                headers: {
+                "Content-Type": "application/json",
+                },
+                body: JSON.stringify(jsonData),
+            });
+
+            const result = await response.json();
+            document.getElementById("result").innerText =
+                "Prediction: " + result.prediction;
+            } catch (error) {
+            alert("Error sending data: " + error.message);
+            }
+        });
+    </script>
+</body>
+</html>
