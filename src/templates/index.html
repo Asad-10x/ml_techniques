@@ -193,52 +193,29 @@
             <p id="result"></p>
         </form>
     </div>
+   
     <script>
-        // Form submission
-        document
-        .getElementById("predictForm")
-        .addEventListener("predict", async function (e) {
-            e.preventDefault();
+        function predict() {
+            const form = document.getElementById('predictForm');
+            const formData = new FormData(form);
+            const data = Object.fromEntries(formData.entries());
 
-            const formData = new FormData(e.target);
-            const jsonData = {};
-            console.log(formData);
-            formData.forEach((value, key) => {
-            // Convert numeric fields properly
-            if (!isNaN(value)) {
-                jsonData[key] = Number(value);
-            } else {
-                jsonData[key] = value;
-            }
-            });
-
-            // Validation check (you can improve with custom logic)
-            if (
-            jsonData["age"] <= 0 ||
-            jsonData["educational-num"] <= 0 ||
-            jsonData["hours-per-week"] <= 0 ||
-            jsonData["capital-gain"] < 0 ||
-            jsonData["capital-loss"] < 0
-            ) {
-            alert("Please enter valid positive values for numeric fields.");
-            return;
-            }
-            try {
-            const response = await fetch("/predict", {
+            fetch("http://localhost:5000/predict", {
                 method: "POST",
                 headers: {
-                "Content-Type": "application/json",
+                    "Content-Type": "application/json",
                 },
-                body: JSON.stringify(jsonData),
+                body: JSON.stringify({ data }),
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('result').innerText = `Prediction: ${data.prediction}`;
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                document.getElementById('result').innerText = 'Error making prediction';
             });
-
-            const result = await response.json();
-            document.getElementById("result").innerText =
-                "Prediction: " + result.prediction;
-            } catch (error) {
-            alert("Error sending data: " + error.message);
-            }
-        });
+        }
     </script>
 </body>
 </html>

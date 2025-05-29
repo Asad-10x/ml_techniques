@@ -1,4 +1,5 @@
-from flask import Flask, request, jsonify, render_template
+from flask import Flask, logging, request, jsonify, render_template
+import logging
 from flask_cors import CORS
 import pandas as pd
 import utils
@@ -6,6 +7,8 @@ import os
 import numpy as np
 
 app = Flask(__name__)
+logging.basicConfig(level=logging.DEBUG)
+logger = logging.getLogger(__name__)
 CORS(app)
 
 # Load model and preprocessors
@@ -25,11 +28,11 @@ class_names = {
 def index():
         return render_template('index.html')
 
-@app.route("/home")
+@app.route('/home')
 def home():
         return "ML Proj  API is running!"
 
-@app.route("/predict", methods=['POST'])
+@app.route('/predict', methods=['POST'])
 def predict():
         if not request.json or 'data' not in request.json:
             return jsonify({'error': 'Invalid input format'}), 400
